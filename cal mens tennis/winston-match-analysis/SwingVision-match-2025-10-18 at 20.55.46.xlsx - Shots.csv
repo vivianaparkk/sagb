@@ -1,0 +1,565 @@
+Player,Shot,Type,Stroke,Spin,Speed (MPH),Point,Game,Set,Bounce Depth,Bounce Zone,Bounce Side,Bounce (x),Bounce (y),Hit Depth,Hit Zone,Hit Side,Hit (x),Hit (y),Hit (z),Direction,Result,Favorited,Start Time,Video Time
+Alex Chang,1,serve,Serve,Slice,81.348457,1,0,0,deep,ad,far,3.029276,18.565058,deep,ad,near,-1.655273,1.365378,2.4375,out wide,Out,false,20:56:27,40.610001
+Winston Lee,2,return,Backhand,Flat,46.57283,1,0,0,deep,ad,near,-1.004396,4.329924,deep,ad_alley,far,4.464844,24.458788,0.988281,down the line,In,false,20:56:28,41.509998
+Alex Chang,1,serve,Serve,Slice,88.251938,2,0,0,short,ad,far,2.440312,16.902395,deep,ad,near,-1.832031,0.701316,2.429688,out wide,In,false,20:56:35,49.240002
+Winston Lee,2,return,Backhand,Topspin,27.085852,2,0,0,short,deuce_out,near,6.52618,9.728477,deep,ad_alley,far,4.371094,24.333788,1.197266,down the line,Out,false,20:56:36,50.139999
+Alex Chang,1,serve,Serve,Flat,46.880672,3,0,0,short,ad,near,-0.864746,11.46875,deep,deuce,near,0.917969,0.896628,2.507812,down the T,Net,false,20:57:01,74.440002
+Alex Chang,1,serve,Serve,Kick,81.825684,4,0,0,short,deuce,far,-1.507812,17.154737,deep,deuce,near,0.636719,0.591941,2.572266,down the T,In,false,20:57:14,88.339996
+Winston Lee,2,return,Backhand,Topspin,46.385921,4,0,0,deep,deuce,near,1.160785,1.008758,deep,deuce,far,-1.580078,24.802538,1.386719,inside out,In,false,20:57:16,89.370003
+Alex Chang,3,serve_plus_one,Backhand,Topspin,47.766754,4,0,0,deep,deuce,far,-2.113885,19.236797,out,deuce,near,1.010742,-1.548684,1.160156,inside out,In,false,20:57:17,90.910004
+Winston Lee,4,return_plus_one,Forehand,Topspin,57.037502,4,0,0,deep,ad,near,-2.149597,3.967677,deep,deuce,far,-2.5625,24.927538,1.443359,down the line,In,false,20:57:19,92.540001
+Alex Chang,5,in_play,Backhand,Topspin,54.994156,4,0,0,short,ad,far,1.327567,16.412083,out,ad,near,-2.380859,-1.493997,1.238281,cross court,In,false,20:57:20,93.870003
+Winston Lee,6,in_play,Backhand,Topspin,51.874031,4,0,0,deep,ad,near,-1.525211,3.19014,out,ad,far,2.576172,25.474413,1.169922,cross court,In,false,20:57:21,95.339996
+Alex Chang,7,in_play,Backhand,Topspin,42.689476,4,0,0,short,deuce,near,1.245117,11.789062,out,ad,near,-2.234375,-0.736184,1.270508,down the line,Net,false,20:57:23,96.669998
+Alex Chang,1,serve,Serve,Flat,92.635811,5,0,0,short,ad,far,3.557903,16.856438,deep,ad,near,-2.023438,0.154441,2.457031,out wide,In,false,20:58:00,133.539993
+Winston Lee,2,return,Backhand,Slice,30.274981,5,0,0,short,deuce,near,0.732921,5.920798,deep,ad_alley,far,5.160156,23.177538,1.099609,down the line,In,false,20:58:01,134.399994
+Alex Chang,3,serve_plus_one,Backhand,Topspin,60.621853,5,0,0,out,ad,far,2.513672,23.886936,deep,ad,near,-0.10791,3.814597,1.636719,cross court,Out,false,20:58:03,136.570007
+Winston Lee,4,return_plus_one,Backhand,Topspin,46.04763,5,0,0,short,deuce,near,1.530273,8.3125,out,ad,far,2.921875,26.208788,1.451172,down the line,In,false,20:58:04,137.779999
+Alex Chang,5,in_play,Volley,Flat,21.650688,5,0,0,short,deuce,far,-2.948609,18.283339,short,deuce,near,1.530273,7.787253,1.15332,cross court,In,false,20:58:05,138.679993
+Alex Chang,1,serve,Serve,Kick,46.386501,7,0,0,short,ad,near,-1.870117,11.234375,deep,deuce,near,0.675293,0.454843,2.425781,out wide,Net,false,20:58:29,162.899994
+Alex Chang,1,serve,Serve,Kick,79.103531,8,0,0,short,deuce,far,-1.454625,16.81073,deep,deuce,near,0.90918,0.849753,2.539062,down the T,In,false,20:58:43,176.899994
+Winston Lee,2,return,Backhand,Topspin,42.349369,8,0,0,deep,ad,near,-0.347023,4.160935,deep,deuce,far,-2.058594,24.146288,1.341797,inside in,In,false,20:58:44,177.830002
+Alex Chang,3,serve_plus_one,Backhand,Topspin,70.466072,8,0,0,short,ad,far,1.553275,16.097496,deep,ad,near,-0.43457,-0.236184,1.335938,cross court,In,false,20:58:46,179.360001
+Winston Lee,4,return_plus_one,Backhand,Flat,44.572277,8,0,0,deep,deuce,near,0.333665,1.527396,deep,ad,far,2.208984,24.302538,1,down the line,In,false,20:58:47,180.429993
+Alex Chang,5,in_play,Backhand,Topspin,28.994974,8,0,0,short,ad,far,3.349506,14.889401,out,center_line,near,-0.023239,-1.884622,1.253906,down the line,In,false,20:58:48,182.029999
+Winston Lee,6,in_play,Backhand,Flat,15.723618,8,0,0,short,ad,far,4.089405,16.530582,short,ad,far,3.177734,15.37285,1.375,cross court,Net,false,20:58:51,184.729996
+Winston Lee,1,serve,Serve,Kick,66.236038,10,0,0,short,deuce,far,-3.607669,17.51112,deep,deuce,near,1.016602,-0.236184,2.646484,out wide,In,false,21:00:07,260.450012
+Alex Chang,2,return,Forehand,Slice,32.430824,10,0,0,short,ad,near,-0.325119,7.024892,deep,deuce_alley,far,-5.050781,23.990038,1.439453,down the line,In,false,21:00:08,261.549988
+Winston Lee,3,serve_plus_one,Forehand,Slice,33.786251,10,0,0,short,deuce,far,-3.061202,15.60481,deep,ad,near,-0.58252,4.759909,0.79541,inside in,In,false,21:00:10,263.670013
+Winston Lee,1,serve,Serve,Kick,87.754051,11,0,0,short,ad,far,0.492487,17.99246,deep,ad,near,-0.766602,0.076033,2.304688,down the T,In,false,21:00:29,282.549988
+Alex Chang,2,return,Forehand,Flat,25.18248,11,0,0,short,deuce,far,-2.189453,16.945641,deep,ad,far,0.709961,23.474413,1.898438,inside in,Net,false,21:00:30,283.450012
+Winston Lee,1,serve,Serve,Kick,96.085793,12,0,0,short,deuce,far,-0.266287,18.063038,deep,deuce,near,0.936035,-0.150247,2.613281,down the T,In,false,21:00:48,302.220001
+Winston Lee,1,serve,Serve,Kick,73.148232,13,0,0,deep,ad,far,0.733485,18.503477,deep,ad,near,-0.899414,0.435691,2.431641,down the T,Out,false,21:01:04,317.609985
+Alex Chang,2,return,Forehand,Flat,49.430882,13,0,0,deep,ad,near,-1.70111,4.397403,deep,ad,far,1.164062,23.755663,1.863281,inside out,In,false,21:01:05,318.549988
+Winston Lee,1,serve,Serve,Kick,54.614304,14,0,0,short,ad,far,0.291612,16.482616,deep,ad,near,-0.92627,1.490378,2.503906,down the T,In,false,21:01:11,325.149994
+Alex Chang,2,return,Forehand,Flat,59.711918,14,0,0,deep,ad,near,-3.654688,0.10268,deep,ad,far,0.666016,24.240038,1.292969,inside out,In,false,21:01:13,326.410004
+Winston Lee,1,serve,Serve,Kick,78.448509,15,0,0,short,deuce,far,-2.678981,18.286781,deep,deuce,near,0.804688,0.285384,2.382812,out wide,In,false,21:01:31,344.640015
+Alex Chang,2,return,Forehand,Flat,52.822006,15,0,0,deep,deuce,near,1.257562,1.278921,deep,deuce,far,-3.304688,24.646288,1.083984,cross court,In,false,21:01:32,345.540009
+Winston Lee,1,serve,Serve,Slice,71.68708,16,0,0,short,deuce,far,-2.344426,18.26384,deep,deuce,near,1.145508,-0.236184,2.558594,down the T,In,false,21:01:39,353.109985
+Alex Chang,2,return,Forehand,Flat,60.205288,16,0,0,deep,deuce,near,0.775996,3.908247,deep,deuce,far,-2.726562,22.240038,1.621094,cross court,In,false,21:01:40,354.140015
+Winston Lee,3,serve_plus_one,Forehand,Topspin,51.373241,16,0,0,deep,ad,far,0.88828,21.471769,deep,deuce,near,1.416016,-0.509622,1.048828,down the line,In,false,21:01:41,355.179993
+Alex Chang,4,return_plus_one,Backhand,Topspin,56.697094,16,0,0,out,deuce_alley,near,4.917271,-0.717233,deep,ad,far,0.937012,23.802538,1.177734,down the line,Out,false,21:01:43,356.51001
+Alex Chang,1,serve,Serve,Kick,96.032349,20,0,0,short,ad,near,-0.140615,7.368019,deep,deuce,far,-0.581055,24.349413,2.548828,down the T,Out,false,21:02:12,385.869995
+Alex Chang,1,serve,Serve,Flat,42.318604,21,0,0,short,deuce,near,1.165397,7.742339,deep,deuce,far,-0.539062,23.193163,2.462891,down the T,In,false,21:02:25,398.940002
+Winston Lee,2,return,Backhand,Flat,44.068954,21,0,0,deep,ad,far,0.665666,22.284599,out,deuce,near,1.5,-0.947122,1.291016,inside in,In,false,21:02:26,400.339996
+Alex Chang,3,serve_plus_one,Backhand,Topspin,45.361427,21,0,0,deep,ad,near,-3.411908,2.21194,deep,ad,far,0.515137,23.365038,1.051758,cross court,In,false,21:02:28,401.970001
+Winston Lee,4,return_plus_one,Backhand,Topspin,47.501404,21,0,0,deep,ad,far,2.641541,22.549152,out,ad,near,-4.019531,-1.579934,1.498047,cross court,In,false,21:02:30,403.649994
+Alex Chang,5,in_play,Backhand,Flat,46.898823,21,0,0,deep,ad,near,-2.277443,1.260219,deep,ad,far,3.001953,24.927538,1.432617,cross court,In,false,21:02:32,405.369995
+Winston Lee,6,in_play,Forehand,Topspin,49.921238,21,0,0,short,ad,far,2.072699,18.238485,out,ad,near,-2.824219,-2.275247,1.570312,inside out,In,false,21:02:33,407.149994
+Alex Chang,7,in_play,Backhand,Topspin,70.562706,21,0,0,deep,deuce,near,2.230252,2.724212,deep,ad,far,2.765625,23.583788,1.621094,down the line,In,false,21:02:35,408.700012
+Winston Lee,8,in_play,Forehand,Topspin,48.790318,21,0,0,deep,deuce,far,-0.594172,23.479401,out,deuce,near,2.046875,-2.361185,1.145508,cross court,In,false,21:02:36,409.700012
+Alex Chang,9,in_play,Backhand,Topspin,39.180771,21,0,0,deep,ad,near,-2.341158,4.442499,deep,deuce,far,-0.937988,24.771288,1.154297,inside in,In,false,21:02:37,411.299988
+Winston Lee,10,in_play,Forehand,Flat,56.373104,21,0,0,short,ad,far,0.738388,17.860916,out,ad,near,-2.451172,-1.470559,1.679688,inside out,In,false,21:02:39,413.140015
+Alex Chang,11,in_play,Backhand,Topspin,43.439758,21,0,0,short,ad,near,-3.93743,6.501574,deep,ad,far,1.764648,24.490038,1.353516,cross court,In,false,21:02:41,414.5
+Winston Lee,12,in_play,Backhand,Topspin,51.962517,21,0,0,deep,ad,far,3.178604,21.827757,deep,ad_alley,near,-4.625,-0.150247,0.888672,down the line,In,false,21:02:42,416.350006
+Alex Chang,13,in_play,Backhand,Topspin,61.159645,21,0,0,deep,deuce,near,2.48831,2.976307,deep,ad,far,3.841797,24.521288,1.0625,down the line,In,false,21:02:44,417.769989
+Winston Lee,14,in_play,Forehand,Flat,41.973991,21,0,0,deep,deuce,far,-3.600483,21.193275,out,deuce,near,1.923828,-1.650247,1.171875,cross court,In,false,21:02:45,418.899994
+Alex Chang,15,in_play,Forehand,Topspin,53.165565,21,0,0,deep,deuce,near,0.279514,2.829606,out,deuce_alley,far,-4.207031,25.333788,1.693359,down the line,In,false,21:02:47,421.049988
+Winston Lee,16,in_play,Forehand,Topspin,52.057518,21,0,0,deep,ad,far,4.058414,19.240131,out,deuce,near,0.979492,-1.486184,1.607422,down the line,In,false,21:02:49,422.440002
+Alex Chang,17,in_play,Backhand,Flat,40.905445,21,0,0,short,ad,near,-2.015488,8.80082,out,ad,far,3.822266,26.708788,1.484375,cross court,In,false,21:02:50,424.140015
+Winston Lee,18,in_play,Backhand,Topspin,65.610527,21,0,0,deep,deuce,far,-3.614269,20.445473,deep,ad,near,-3.421875,0.904441,0.816406,down the line,In,false,21:02:52,426.049988
+Alex Chang,1,serve,Serve,Flat,84.413406,23,0,0,short,ad,near,-1.271484,11.75,deep,ad,far,0.295654,23.511354,2.193359,down the T,In,false,21:03:26,459.929993
+Alex Chang,1,serve,Serve,Flat,97.640968,24,0,0,short,ad,near,-1.504099,7.717816,deep,ad,far,1.070312,24.802538,2.542969,down the T,In,false,21:03:30,463.829987
+Winston Lee,2,return,Forehand,Slice,31.808537,24,0,0,short,ad,far,1.714053,16.172131,out,ad,near,-3.623047,-1.415872,1.455078,inside out,In,false,21:03:31,464.660004
+Alex Chang,3,serve_plus_one,Backhand,Flat,76.908493,24,0,0,short,ad,near,-1.78446,6.711686,deep,ad,far,1.698242,21.068163,1.820312,cross court,In,false,21:03:33,466.899994
+Alex Chang,1,serve,Serve,Flat,61.994884,26,0,0,short,ad,far,0.583984,17.53125,deep,deuce,far,-0.322021,24.130663,2.246094,down the T,Net,false,21:04:01,494.730011
+Alex Chang,1,serve,Serve,Flat,57.373775,27,0,0,short,ad,far,2.658203,12.367188,deep,deuce,far,-0.830566,24.458788,2.425781,out wide,Net,false,21:04:07,501.029999
+Alex Chang,1,serve,Serve,Kick,84.033981,28,0,0,short,deuce,near,0.812503,6.063758,deep,deuce,far,-0.78418,24.615038,2.548828,down the T,In,false,21:04:15,508.730011
+Winston Lee,2,return,Forehand,Flat,30.763353,28,0,0,short,ad,far,1.225345,17.2556,out,deuce,near,0.580078,-2.056497,1.572266,down the line,In,false,21:04:16,509.76001
+Alex Chang,3,serve_plus_one,Backhand,Topspin,82.3433,28,0,0,deep,ad,near,-3.012668,5.420063,deep,ad,far,1.345703,22.536913,1.974609,cross court,In,false,21:04:19,512.640015
+Alex Chang,1,serve,Serve,Flat,66.004875,30,0,0,short,deuce,far,-0.431152,15.781184,deep,ad,far,1.154297,23.958788,2.648438,down the T,Net,false,21:04:46,540.320007
+Alex Chang,1,serve,Serve,Slice,33.245636,31,0,0,deep,ad,near,-4.087074,5.116798,deep,ad,far,1.168945,24.365038,2.556641,out wide,Out,false,21:04:54,547.419983
+Winston Lee,2,return,Backhand,Topspin,44.895302,31,0,0,deep,deuce,far,-0.885206,21.389938,deep,ad_alley,near,-4.578125,2.388815,1.0625,down the line,In,false,21:04:55,549.140015
+Alex Chang,3,serve_plus_one,Backhand,Topspin,75.523735,31,0,0,deep,deuce,near,3.504889,2.36306,deep,ad,far,0.250244,23.880663,0.881836,down the line,In,false,21:04:57,550.640015
+Alex Chang,1,serve,Serve,Flat,99.539185,32,0,0,deep,deuce,near,4.091607,5.083385,deep,deuce,far,-0.690918,23.599413,2.447266,out wide,Out,false,21:05:32,585.75
+Winston Lee,2,return,Forehand,Topspin,46.984818,32,0,0,deep,deuce_out,far,-5.757992,21.044153,out,deuce_alley,near,4.671875,-0.587747,0.826172,down the line,Out,false,21:05:33,586.429993
+Alex Chang,1,serve,Serve,Kick,98.863922,33,0,0,short,deuce,near,1.2397,7.418025,deep,deuce,far,-0.95166,24.771288,2.613281,down the T,In,false,21:05:49,602.47998
+Winston Lee,2,return,Backhand,Flat,41.228642,33,0,0,short,deuce,far,-0.670726,16.085787,deep,deuce,near,1.710938,-0.072122,1.25,inside out,In,false,21:05:49,603.25
+Alex Chang,3,serve_plus_one,Backhand,Topspin,65.434677,33,0,0,short,deuce,near,2.05521,6.48591,deep,deuce,far,-1.335938,23.552538,1.078125,inside out,In,false,21:05:51,604.950012
+Winston Lee,4,return_plus_one,Forehand,Topspin,46.815491,33,0,0,short,deuce,far,-0.474365,15.921875,out,deuce,near,3.658203,-2.43931,0.626953,cross court,In,false,21:05:52,606.150024
+Alex Chang,5,in_play,Volley,Slice,19.052607,33,0,0,short,ad,near,-1.955078,7.554688,short,deuce,far,-0.474365,17.130663,1.660156,down the line,In,false,21:05:53,607.109985
+Winston Lee,6,in_play,Volley,Flat,25.114799,33,0,0,short,ad,near,-2.269531,7.019531,short,ad,near,-1.955078,7.02944,0.502441,cross court,Net,false,21:05:54,607.5
+Winston Lee,7,in_play,Volley,Flat,25.114799,33,0,0,deep,deuce_out,far,-5.970122,21.24102,deep,ad,near,-3.802734,1.654441,1.126953,down the line,Out,false,21:05:54,608.200012
+Winston Lee,1,serve,Serve,Slice,78.130577,34,0,0,deep,deuce,near,3.619947,4.373076,deep,deuce,far,-0.634766,23.568163,1.878906,out wide,Out,false,21:07:12,686.070007
+Alex Chang,2,return,Forehand,Topspin,57.818829,34,0,0,short,ad,far,1.548925,18.134407,deep,deuce_alley,near,4.625,-0.431497,0.960938,down the line,In,false,21:07:13,686.98999
+Winston Lee,1,serve,Serve,Slice,70.661682,35,0,0,short,deuce,near,2.963292,6.876872,deep,deuce,far,-0.9375,24.193163,2.435547,out wide,In,false,21:07:19,692.669983
+Alex Chang,2,return,Forehand,Flat,63.124897,35,0,0,deep,deuce,far,-0.742196,20.678923,deep,deuce,near,3.994141,1.537253,1.099609,cross court,In,false,21:07:20,693.549988
+Winston Lee,3,serve_plus_one,Forehand,Topspin,51.629032,35,0,0,deep,deuce,near,0.770084,3.269297,deep,deuce,far,-1.152344,24.583788,0.779297,cross court,In,false,21:07:21,694.590027
+Alex Chang,4,return_plus_one,Backhand,Topspin,45.999855,35,0,0,deep,deuce,far,-2.93812,19.097708,deep,deuce,near,0.891602,-0.079934,1.033203,inside out,In,false,21:07:22,695.77002
+Winston Lee,5,in_play,Forehand,Topspin,51.778828,35,0,0,deep,ad,near,-2.867188,4.542969,out,deuce,far,-3.568359,25.365038,1.429688,down the line,In,false,21:07:23,697.289978
+Alex Chang,6,in_play,Volley,Flat,17.320551,35,0,0,deep,ad,far,1.708984,20.40625,deep,ad,near,-2.375,1.654441,0.986816,cross court,In,false,21:07:25,698.650024
+Winston Lee,7,in_play,Backhand,Topspin,65.342369,35,0,0,deep,ad_alley,near,-4.956238,0.976737,deep,ad,far,1.700195,23.599413,1.189453,down the line,Out,false,21:07:26,700.219971
+Winston Lee,1,serve,Serve,Flat,38.007751,37,0,0,short,ad,near,-1.550285,5.935371,deep,ad,far,0.656738,23.624725,1.984375,down the T,In,false,21:07:43,716.900024
+Alex Chang,2,return,Forehand,Flat,46.274094,37,0,0,deep,ad,far,0.720252,21.508123,deep,ad,near,-2.287109,-0.408059,1.068359,inside out,In,false,21:07:47,720.570007
+Winston Lee,3,serve_plus_one,Forehand,Topspin,50.872589,37,0,0,deep,ad,near,-2.572266,1.414062,deep,ad,far,1.574219,24.286913,1.089844,inside out,In,false,21:07:48,722.200012
+Alex Chang,4,return_plus_one,Backhand,Topspin,35.779812,37,0,0,short,deuce,far,-0.743774,14.626501,out,ad,near,-2.509766,-0.579934,1.003906,down the line,In,false,21:07:50,723.549988
+Winston Lee,5,in_play,Forehand,Topspin,44.890347,37,0,0,deep,ad,near,-2.877759,5.069725,deep,ad,far,0.135742,22.458788,1.246094,inside out,In,false,21:07:51,725.070007
+Alex Chang,6,in_play,Backhand,Topspin,66.10688,37,0,0,short,deuce,far,-2.587891,14.5,out,ad,near,-3.552734,-1.814309,1.105469,down the line,In,false,21:07:53,726.5
+Winston Lee,7,in_play,Volley,Flat,19.380985,37,0,0,short,deuce,far,-2.708984,17.446228,short,deuce,far,-2.587891,15.708788,3.623047,cross court,Net,false,21:07:53,727.330017
+Winston Lee,1,serve,Serve,Slice,45.414917,38,0,0,short,ad,far,2.236328,12.335938,deep,deuce,far,-0.770508,23.146288,2.390625,out wide,Net,false,21:08:22,756.01001
+Winston Lee,1,serve,Serve,Kick,60.328621,39,0,0,short,deuce,near,3.082261,7.776736,deep,deuce,far,-0.864258,24.240038,2.462891,out wide,In,false,21:08:36,769.849976
+Alex Chang,2,return,Forehand,Flat,60.735577,39,0,0,out,deuce,far,-1.893546,27.696434,deep,deuce,near,3.585938,2.849753,1.466797,cross court,Out,false,21:08:37,770.909973
+Winston Lee,1,serve,Serve,Flat,86.006035,40,0,0,short,ad,near,-2.086609,6.67225,deep,ad,far,1.119141,24.146288,2.648438,down the T,In,false,21:08:52,785.880005
+Alex Chang,2,return,Backhand,Slice,36.613056,40,0,0,deep,ad,far,0.769837,22.080616,deep,ad,near,-3.111328,1.091941,1.177734,cross court,In,false,21:08:53,786.659973
+Winston Lee,3,serve_plus_one,Forehand,Topspin,51.003399,40,0,0,deep,deuce,near,3.255272,2.114605,deep,ad,far,1.994141,22.927538,1.270508,inside in,In,false,21:08:55,788.809998
+Alex Chang,4,return_plus_one,Forehand,Topspin,49.414242,40,0,0,deep,deuce,far,-0.543271,19.972515,out,deuce,near,3.394531,-1.845559,1.392578,cross court,In,false,21:08:56,790.190002
+Winston Lee,5,in_play,Forehand,Topspin,53.526821,40,0,0,deep,deuce,near,4.107347,1.485152,deep,deuce,far,-0.706055,23.708788,1.765625,cross court,In,false,21:08:58,791.73999
+Alex Chang,6,in_play,Forehand,Slice,30.773031,40,0,0,short,ad,far,2.924086,15.898755,out,deuce_alley,near,4.535156,-1.509622,1.566406,down the line,In,false,21:08:59,793.090027
+Winston Lee,1,serve,Serve,Kick,55.980408,41,0,0,short,deuce,far,-0.135864,12.40625,deep,deuce,far,-1.581055,24.552538,2.501953,down the T,Net,false,21:09:20,813.869995
+Winston Lee,1,serve,Serve,Slice,66.507339,42,0,0,short,deuce,near,3.085719,7.482182,deep,deuce,far,-0.792969,23.724413,2.404297,out wide,In,false,21:09:31,825.210022
+Alex Chang,2,return,Forehand,Flat,57.639675,42,0,0,deep,ad,far,0.794613,23.723482,deep,deuce_alley,near,4.5,2.412253,1.15918,down the line,In,false,21:09:32,826.140015
+Winston Lee,1,serve,Serve,Flat,45.14872,43,0,0,short,ad,near,-2.90693,6.596833,deep,ad,far,0.782227,23.443163,2.363281,out wide,In,false,21:09:47,840.77002
+Alex Chang,2,return,Backhand,Slice,39.465382,43,0,0,short,ad,far,2.163671,18.279572,deep,ad,near,-3.625,0.381003,0.972168,cross court,In,false,21:09:48,841.98999
+Winston Lee,3,serve_plus_one,Backhand,Topspin,55.511429,43,0,0,deep,deuce,near,2.663408,2.70994,deep,ad,far,2.863281,24.240038,0.989258,down the line,In,false,21:09:50,843.619995
+Alex Chang,4,return_plus_one,Forehand,Topspin,63.385983,43,0,0,deep,deuce,far,-4.104862,20.690386,out,deuce,near,1.942383,-0.548684,1.207031,cross court,In,false,21:09:51,844.840027
+Alex Chang,1,serve,Serve,Flat,106.260178,45,0,0,short,deuce,far,-4.016876,18.230915,deep,deuce,near,0.725586,0.185691,2.626953,out wide,In,false,21:10:24,878.169983
+Winston Lee,2,return,Forehand,Slice,40.363773,45,0,0,short,deuce,far,-2.960938,15.84375,deep,deuce_alley,far,-4.683594,24.365038,1.053711,down the line,Net,false,21:10:25,879.030029
+Alex Chang,1,serve,Serve,Kick,88.652184,46,0,0,short,deuce,far,-0.545549,18.209356,deep,deuce,near,0.467285,0.09323,2.359375,down the T,In,false,21:10:33,886.599976
+Winston Lee,2,return,Backhand,Topspin,45.332432,46,0,0,deep,ad,near,-1.315307,2.793642,deep,deuce,far,-0.204712,24.927538,1.333984,inside in,In,false,21:10:34,887.599976
+Alex Chang,3,serve_plus_one,Backhand,Topspin,55.713627,46,0,0,deep,ad,far,1.938974,21.772581,out,ad,near,-1.655273,-1.181497,1.34668,cross court,In,false,21:10:35,889.130005
+Winston Lee,4,return_plus_one,Backhand,Topspin,47.586475,46,0,0,deep,ad,near,-2.556641,3.71875,out,ad,far,2.556641,25.177538,1.388672,cross court,In,false,21:10:37,890.77002
+Alex Chang,5,in_play,Backhand,Topspin,62.310223,46,0,0,deep,ad,far,1.530383,19.526968,out,ad,near,-3.207031,-0.736184,1.3125,cross court,In,false,21:10:38,892.27002
+Winston Lee,6,in_play,Backhand,Topspin,47.695877,46,0,0,deep,ad,near,-2.204828,2.905611,deep,ad,far,2.949219,24.036913,1.191406,cross court,In,false,21:10:40,893.580017
+Alex Chang,7,in_play,Backhand,Topspin,57.213131,46,0,0,deep,ad,far,3.212835,22.382929,out,ad,near,-2.583984,-1.618997,1.339844,cross court,In,false,21:10:41,895.070007
+Winston Lee,8,in_play,Backhand,Flat,50.475967,46,0,0,short,deuce,near,0.219392,7.596125,out,ad,far,3.423828,25.740038,0.74707,down the line,In,false,21:10:42,896.330017
+Alex Chang,9,in_play,Backhand,Topspin,34.644333,46,0,0,short,ad,near,-1.357422,6.561992,deep,ad,near,-1.102539,0.545066,0.86377,cross court,Net,false,21:10:44,897.799988
+Alex Chang,1,serve,Serve,Kick,116.043564,48,0,0,deep,ad,far,0.290713,20.973913,deep,ad,near,-1.129883,0.596239,2.375,down the T,Out,false,21:11:11,924.98999
+Winston Lee,2,return,Forehand,Topspin,54.479614,48,0,0,deep,ad,far,0.979004,22.40625,out,ad,far,2.042969,26.115038,1.142578,inside out,Net,false,21:11:12,925.97998
+Alex Chang,1,serve,Serve,Kick,89.045876,49,0,0,short,ad,far,2.953851,18.067921,deep,ad,near,-1.275391,0.335123,2.417969,out wide,In,false,21:11:22,935.890015
+Winston Lee,2,return,Backhand,Topspin,43.864895,49,0,0,deep,deuce,near,1.703152,1.260362,deep,ad_alley,far,4.707031,24.208788,1.455078,down the line,In,false,21:11:23,936.830017
+Alex Chang,3,serve_plus_one,Forehand,Topspin,50.00407,49,0,0,deep,deuce,far,-0.084638,20.506706,out,deuce,near,1.041016,-1.564309,1.367188,cross court,In,false,21:11:25,938.530029
+Winston Lee,4,return_plus_one,Forehand,Topspin,54.163597,49,0,0,deep,ad,near,-2.951162,1.363732,out,deuce,far,-0.419434,25.286913,1.082031,down the line,In,false,21:11:26,940.179993
+Alex Chang,5,in_play,Backhand,Topspin,53.307629,49,0,0,deep,ad,far,1.482413,23.73992,out,ad,near,-3.195312,-2.361185,1.242188,cross court,In,false,21:11:28,941.590027
+Winston Lee,6,in_play,Forehand,Topspin,49.016594,49,0,0,short,ad,near,-1.940137,6.585822,out,ad,far,2.074219,25.490038,1.236328,inside out,In,false,21:11:29,943.159973
+Alex Chang,7,in_play,Backhand,Topspin,61.35537,49,0,0,deep,ad,far,3.479669,19.163181,deep,ad,near,-3.308594,-0.150247,1.010742,cross court,In,false,21:11:31,944.690002
+Winston Lee,8,in_play,Backhand,Slice,37.525059,49,0,0,deep,deuce,near,1.202486,5.4517,out,ad_alley,far,4.203125,25.646288,2.197266,down the line,In,false,21:11:32,946.080017
+Alex Chang,9,in_play,Backhand,Topspin,29.476454,49,0,0,short,ad,near,-1.706055,5.602729,deep,deuce,near,0.150879,1.865378,0.945312,inside in,Net,false,21:11:34,947.929993
+Alex Chang,1,serve,Serve,Kick,98.535484,51,0,0,short,deuce,far,-0.20008,16.334858,deep,deuce,near,0.834473,0.568503,2.558594,down the T,In,false,21:12:05,979.02002
+Winston Lee,2,return,Backhand,Slice,34.689934,51,0,0,deep,deuce_alley,near,4.346386,3.105899,deep,deuce,far,-0.216187,24.677538,1.291016,inside in,Out,false,21:12:06,979.890015
+Alex Chang,1,serve,Serve,Kick,113.493111,52,0,0,short,ad,far,0.218159,17.637508,deep,ad,near,-0.875977,1.05634,2.154297,down the T,In,false,21:12:27,1000.849976
+Winston Lee,2,return,Forehand,Slice,35.606838,52,0,0,short,center_line,far,-0.004353,17.953125,out,ad,far,1.638672,25.458788,1.484375,inside in,Net,false,21:12:28,1001.570007
+Alex Chang,1,serve,Serve,Flat,114.711823,54,0,0,short,deuce,far,-2.596382,16.793718,deep,deuce,near,0.858887,0.388816,2.521484,out wide,In,false,21:12:56,1029.849976
+Winston Lee,2,return,Forehand,Topspin,41.800949,54,0,0,deep,deuce,near,0.370548,5.299657,out,deuce,far,-3.925781,25.146288,1.231445,cross court,In,false,21:12:57,1030.579956
+Alex Chang,3,serve_plus_one,Backhand,Topspin,68.058144,54,0,0,deep,ad,far,2.206136,20.185379,deep,deuce,near,0.908691,2.37319,1.351562,inside in,In,false,21:12:58,1032.180054
+Winston Lee,4,return_plus_one,Backhand,Topspin,36.268867,54,0,0,short,ad,near,-1.338867,9.109375,deep,ad,far,2.136719,24.146288,1.506836,cross court,In,false,21:12:59,1033.25
+Alex Chang,5,in_play,Volley,Flat,22.516716,54,0,0,short,ad,far,2.478951,17.890638,short,ad,near,-1.338867,8.584128,1.576172,cross court,In,false,21:13:00,1034.27002
+Winston Lee,6,in_play,Backhand,Topspin,49.278435,54,0,0,deep,ad_alley,near,-4.62909,2.666367,deep,ad,far,3.361328,24.333788,0.729004,down the line,Out,false,21:13:02,1035.469971
+Alex Chang,1,serve,Serve,Slice,96.877106,55,0,0,short,ad,far,3.573762,18.267567,deep,ad,near,-1.625977,0.584128,2.447266,out wide,In,false,21:13:31,1064.51001
+Winston Lee,2,return,Backhand,Topspin,31.042688,55,0,0,short,ad,far,1.614258,18.000872,out,ad_alley,far,5.183594,25.583788,1.554688,down the line,Net,false,21:13:32,1065.459961
+Winston Lee,1,serve,Serve,Kick,79.200562,56,0,0,short,deuce,far,-2.833519,17.026033,deep,deuce,near,1.111328,0.146628,2.552734,out wide,In,false,21:14:47,1140.900024
+Alex Chang,2,return,Forehand,Flat,58.997879,56,0,0,short,ad,near,-1.584309,5.859943,deep,deuce,far,-3.917969,23.990038,1.53125,down the line,In,false,21:14:48,1141.699951
+Winston Lee,3,serve_plus_one,Backhand,Topspin,49.296211,56,0,0,short,deuce,far,-0.564354,18.279572,out,ad,near,-1.263672,-0.712747,0.885742,down the line,In,false,21:14:49,1142.800049
+Alex Chang,4,return_plus_one,Backhand,Topspin,62.376629,56,0,0,deep,ad_alley,near,-4.732862,0.624067,deep,deuce,far,-0.207764,23.083788,0.896484,inside in,Out,false,21:14:50,1144.170044
+Winston Lee,1,serve,Serve,Flat,93.103561,57,0,0,short,ad,far,3.110364,17.561916,deep,ad,near,-1.705078,0.529441,2.417969,out wide,In,false,21:15:16,1169.969971
+Alex Chang,2,return,Backhand,Slice,37.796146,57,0,0,short,deuce,near,0.445958,5.491513,deep,ad_alley,far,4.4375,23.880663,0.90625,down the line,In,false,21:15:17,1170.75
+Winston Lee,3,serve_plus_one,Forehand,Topspin,55.199783,57,0,0,deep,ad_alley,far,4.510564,23.764971,deep,ad,near,-0.838867,2.224753,0.92041,inside in,Out,false,21:15:19,1172.469971
+Winston Lee,1,serve,Serve,Kick,70.532303,58,0,0,short,deuce,far,-2.224609,15.773438,deep,deuce,near,1.19043,0.232566,2.568359,out wide,In,false,21:15:38,1192.329956
+Winston Lee,1,serve,Serve,Kick,36.613995,59,0,0,short,ad,near,-1.523438,11.671875,deep,deuce,near,1.013672,0.381003,2.53125,out wide,Net,false,21:15:46,1199.5
+Winston Lee,1,serve,Serve,Kick,83.819656,60,0,0,short,ad,far,0.920576,18.230915,deep,ad,near,-1.368164,0.006003,2.490234,down the T,In,false,21:16:08,1222.290039
+Alex Chang,2,return,Forehand,Flat,57.090157,60,0,0,out,ad,near,-0.969677,-0.74808,deep,ad,far,1.185547,22.552538,1.161133,inside out,Out,false,21:16:09,1223.089966
+Winston Lee,3,serve_plus_one,Forehand,Flat,44.696808,60,0,0,short,ad,far,3.26238,17.955015,deep,ad,near,-1.369141,-0.314309,0.456543,inside out,In,false,21:16:10,1224.060059
+Alex Chang,4,return_plus_one,Backhand,Flat,71.569206,60,0,0,deep,ad,near,-3.388253,1.630812,deep,ad,far,3.851562,24.255663,0.879883,cross court,In,false,21:16:12,1225.709961
+Winston Lee,1,serve,Serve,Kick,89.928215,61,0,0,short,deuce,far,-0.6531,17.364267,deep,deuce,near,1.227539,0.396628,2.447266,down the T,In,false,21:16:39,1252.459961
+Alex Chang,2,return,Backhand,Slice,36.622032,61,0,0,short,ad,near,-0.878805,6.441267,deep,deuce,far,-0.755371,23.365038,1.330078,inside in,In,false,21:16:39,1253.339966
+Winston Lee,3,serve_plus_one,Forehand,Slice,33.847618,61,0,0,short,deuce,far,-3.559109,17.980568,deep,ad,near,-1.329102,2.959128,0.996094,inside in,In,false,21:16:41,1254.920044
+Alex Chang,4,return_plus_one,Forehand,Topspin,42.628605,61,0,0,short,ad,near,-2.742188,11.71875,out,deuce,far,-3.28125,25.083788,0.628418,down the line,In,false,21:16:43,1256.609985
+Winston Lee,5,in_play,Volley,Flat,22.516716,61,0,0,deep,ad,far,3.258103,23.768829,short,ad,near,-2.742188,11.193503,2.417969,cross court,In,false,21:16:43,1257.359985
+Alex Chang,6,in_play,Backhand,Flat,79.886963,61,0,0,deep,ad,near,-1.779547,4.858149,deep,ad,far,2.904297,22.583788,1.365234,cross court,In,false,21:16:45,1258.790039
+Winston Lee,1,serve,Serve,Flat,99.045723,62,0,0,short,ad,far,2.203052,16.658886,deep,ad,near,-1.673828,-0.267434,2.578125,out wide,In,false,21:17:09,1282.670044
+Alex Chang,2,return,Backhand,Flat,46.713913,62,0,0,deep,ad,near,-0.794545,1.782957,deep,ad,far,3.660156,23.583788,1.3125,cross court,In,false,21:17:10,1283.400024
+Winston Lee,3,serve_plus_one,Forehand,Topspin,59.326633,62,0,0,deep,ad,far,3.353625,23.705809,out,ad,near,-1.387695,-2.329935,1.345703,inside out,In,false,21:17:11,1284.969971
+Alex Chang,4,return_plus_one,Backhand,Topspin,43.80209,62,0,0,deep,ad,near,-1.310747,5.48083,out,ad,far,3.652344,25.365038,1.291992,cross court,In,false,21:17:13,1286.400024
+Winston Lee,5,in_play,Forehand,Topspin,60.712528,62,0,0,deep,ad,far,3.507196,19.443501,deep,ad,near,-1.855469,-0.118997,1.591797,inside out,In,false,21:17:14,1288.02002
+Alex Chang,6,in_play,Backhand,Topspin,49.691559,62,0,0,short,ad,near,-2.645448,6.728555,out,ad_alley,far,4.488281,26.115038,1.259766,down the line,In,false,21:17:16,1289.400024
+Winston Lee,7,in_play,Backhand,Topspin,60.733505,62,0,0,deep,ad,far,2.248589,19.625574,deep,ad,near,-3.933594,0.310691,1.339844,cross court,In,false,21:17:17,1290.890015
+Alex Chang,8,in_play,Backhand,Topspin,60.002312,62,0,0,deep,deuce,near,2.396601,4.809402,out,ad,far,3.865234,25.521288,1.349609,down the line,In,false,21:17:18,1292.099976
+Winston Lee,9,in_play,Forehand,Topspin,50.294025,62,0,0,deep,ad,far,2.477903,23.758974,out,deuce,near,1.832031,-1.134622,1.246094,down the line,In,false,21:17:20,1293.400024
+Alex Chang,10,in_play,Backhand,Topspin,53.964188,62,0,0,short,ad,near,-2.544806,6.97151,deep,ad,far,1.580078,22.708788,0.861816,cross court,In,false,21:17:21,1294.819946
+Winston Lee,11,in_play,Backhand,Slice,34.595093,62,0,0,short,deuce,far,-0.068481,15.632812,out,ad,near,-3.779297,-0.822122,0.664062,down the line,In,false,21:17:22,1296.300049
+Alex Chang,12,in_play,Volley,Flat,19.052607,62,0,0,deep,ad,near,-3.477638,3.611676,short,deuce,far,-0.068481,16.8416,0.859375,down the line,In,false,21:17:24,1297.550049
+Winston Lee,13,in_play,Backhand,Slice,32.060631,62,0,0,short,deuce,far,-0.295898,17.40625,deep,ad,near,-3.175781,1.045066,1.082031,down the line,In,false,21:17:25,1298.550049
+Alex Chang,14,in_play,Overhead,Topspin,64.562248,62,0,0,short,deuce_alley,near,5.256914,7.719706,short,deuce,far,-0.295898,18.615038,3.080078,---,Out,false,21:17:26,1300.140015
+Winston Lee,1,serve,Serve,Slice,84.893921,63,0,0,short,deuce,far,-3.760595,18.027475,deep,deuce,near,1.12207,0.060691,2.470703,out wide,In,false,21:18:06,1340.22998
+Alex Chang,2,return,Forehand,Topspin,62.87825,63,0,0,deep,ad,near,-0.034325,3.739105,deep,deuce_alley,far,-4.167969,24.193163,1.410156,down the line,In,false,21:18:07,1341.079956
+Winston Lee,3,serve_plus_one,Forehand,Topspin,28.764698,63,0,0,short,deuce,near,2.507812,7.193664,deep,deuce,near,0.730957,-0.439309,0.737305,cross court,Net,false,21:18:08,1342.130005
+Alex Chang,1,serve,Serve,Flat,118.276611,65,0,0,short,deuce,near,3.946031,7.602315,deep,deuce,far,-0.647461,24.427538,2.494141,out wide,In,false,21:18:49,1382.589966
+Alex Chang,1,serve,Serve,Kick,88.899498,67,0,0,short,ad,near,-3.77726,6.787945,deep,ad,far,1.375977,24.427538,2.599609,out wide,In,false,21:19:12,1405.819946
+Winston Lee,2,return,Backhand,Topspin,37.59499,67,0,0,short,deuce,far,-2.832031,16.984375,out,ad_alley,near,-4.941406,-1.150247,1.029297,down the line,In,false,21:19:13,1406.77002
+Alex Chang,3,serve_plus_one,Volley,Slice,25.114799,67,0,0,short,deuce,far,-0.607422,17.77828,short,deuce,far,-2.832031,18.193163,0.636719,cross court,Net,false,21:19:14,1407.969971
+Alex Chang,1,serve,Serve,Kick,86.844193,68,0,0,short,deuce_alley,near,4.993281,6.062535,deep,deuce,far,-0.902832,24.396288,2.494141,out wide,Out,false,21:19:46,1440.339966
+Alex Chang,1,serve,Serve,Slice,81.152145,69,0,0,short,deuce,near,0.96185,7.056433,deep,deuce,far,-0.405518,23.771288,2.373047,down the T,In,false,21:19:55,1448.800049
+Winston Lee,2,return,Backhand,Flat,46.850273,69,0,0,deep,deuce,far,-0.069695,19.227877,deep,deuce,near,0.858887,-0.408059,1.257812,inside out,In,false,21:19:56,1449.670044
+Alex Chang,3,serve_plus_one,Backhand,Topspin,68.481567,69,0,0,deep,deuce,near,2.723259,4.807673,deep,deuce,far,-0.345459,23.271288,0.998535,inside out,In,false,21:19:57,1451.130005
+Winston Lee,4,return_plus_one,Forehand,Topspin,43.578159,69,0,0,short,ad,far,0.755859,16.046875,out,deuce,near,3.515625,-2.111185,1.026367,down the line,In,false,21:19:58,1452.180054
+Alex Chang,5,in_play,Volley,Slice,18.186579,69,0,0,deep,deuce,near,1.994141,3.046875,short,ad,far,0.755859,17.255663,1.474609,down the line,In,false,21:19:59,1453.199951
+Winston Lee,6,in_play,Forehand,Topspin,66.648811,69,0,0,out,ad,far,1.412109,24.028753,out,deuce,near,1.926758,-0.579934,0.732422,down the line,Out,false,21:20:01,1454.420044
+Alex Chang,1,serve,Serve,Flat,95.421394,71,0,0,deep,ad,near,-1.893819,4.270524,deep,ad,far,0.91748,22.396288,2.164062,down the T,Out,false,21:20:50,1503.47998
+Winston Lee,2,return,Forehand,Topspin,64.015366,71,0,0,deep,ad,far,0.214974,18.751476,out,ad,near,-2.746094,-0.548684,0.93457,inside out,In,false,21:20:50,1504.079956
+Alex Chang,1,serve,Serve,Flat,82.270111,72,0,0,deep,ad,near,-3.903539,5.467918,deep,ad,far,0.976074,24.302538,2.601562,out wide,Out,false,21:20:59,1512.910034
+Winston Lee,2,return,Backhand,Flat,45.429756,72,0,0,deep,ad,far,2.739054,23.749752,deep,ad_alley,near,-4.855469,-0.236184,1.115234,down the line,In,false,21:21:00,1513.73999
+Alex Chang,3,serve_plus_one,Backhand,Flat,38.357357,72,0,0,deep,ad_alley,near,-4.263743,1.228019,deep,ad,far,3.076172,24.771288,0.875,down the line,Out,false,21:21:02,1515.459961
+Winston Lee,4,return_plus_one,Backhand,Topspin,43.972111,72,0,0,short,deuce,far,-0.642224,15.544256,out,ad_alley,near,-4.621094,-2.478372,1.666016,down the line,In,false,21:21:04,1517.72998
+Alex Chang,1,serve,Serve,Kick,94.009789,73,0,0,short,deuce,near,0.373572,6.934433,deep,deuce,far,-0.360352,23.552538,2.451172,down the T,In,false,21:21:48,1562.27002
+Winston Lee,2,return,Backhand,Slice,32.781986,73,0,0,short,ad,far,0.900089,16.393513,out,deuce,near,0.245605,-0.783059,1.25,inside in,In,false,21:21:49,1563.069946
+Alex Chang,3,serve_plus_one,Backhand,Topspin,72.255325,73,0,0,deep,ad,near,-3.028189,2.638508,deep,ad,far,1.233398,23.568163,1.200195,cross court,In,false,21:21:51,1565.01001
+Winston Lee,4,return_plus_one,Backhand,Topspin,34.570446,73,0,0,short,deuce,far,-0.305664,17.6875,out,ad_alley,near,-4.125,-3.423685,1.033203,down the line,In,false,21:21:52,1566.119995
+Alex Chang,5,in_play,Overhead,Flat,112.58358,73,0,0,short,deuce,near,1.308644,9.333449,short,deuce,far,-0.305664,18.896288,2.605469,---,In,false,21:21:54,1568.02002
+Alex Chang,1,serve,Serve,Flat,44.528591,75,0,0,short,center_line,near,-0.011664,6.800621,deep,ad,far,1.004883,23.771288,2.373047,down the T,In,false,21:22:28,1601.400024
+Winston Lee,2,return,Forehand,Flat,53.411228,75,0,0,deep,ad,near,-1.135742,3.429688,out,ad,near,-1.273438,-0.876809,1.245117,inside out,Net,false,21:22:29,1602.569946
+Winston Lee,1,serve,Serve,Slice,93.398773,77,0,0,short,deuce,near,2.418534,5.660919,deep,deuce,far,-0.935547,24.693163,2.484375,out wide,In,false,21:24:49,1742.75
+Alex Chang,2,return,Forehand,Flat,42.043045,77,0,0,deep,ad,far,1.245117,21.125,deep,deuce,near,3.449219,0.263816,1.199219,down the line,In,false,21:24:50,1743.47998
+Winston Lee,3,serve_plus_one,Volley,Flat,17.320551,77,0,0,out,ad,far,1.245117,24.54875,deep,ad,far,1.245117,22.333788,0.95166,cross court,Net,false,21:24:51,1744.699951
+Winston Lee,1,serve,Serve,Slice,85.824516,78,0,0,deep,ad,near,-0.442739,5.205306,deep,ad,far,0.847168,24.177538,2.621094,down the T,Out,false,21:25:03,1756.579956
+Alex Chang,2,return,Forehand,Slice,38.005287,78,0,0,deep,ad,far,0.614813,23.014284,out,ad,near,-1.244141,-1.212747,1.064453,inside out,In,false,21:25:04,1757.380005
+Winston Lee,1,serve,Serve,Kick,68.033409,79,0,0,short,ad,near,-0.247852,6.395412,deep,ad,far,0.801758,24.458788,2.488281,down the T,In,false,21:25:11,1764.949951
+Alex Chang,2,return,Forehand,Topspin,47.6567,79,0,0,deep,deuce,far,-0.976132,18.536884,out,ad,near,-0.681641,-2.423685,1.173828,inside in,In,false,21:25:12,1766.219971
+Winston Lee,3,serve_plus_one,Forehand,Topspin,41.672989,79,0,0,deep,deuce,near,1.578354,5.252488,deep,deuce,far,-0.970215,23.677538,1.270508,cross court,In,false,21:25:14,1767.949951
+Alex Chang,4,return_plus_one,Forehand,Topspin,56.084419,79,0,0,deep,ad,far,0.925967,21.320745,out,deuce,near,2.310547,-2.009622,1.213867,down the line,In,false,21:25:16,1769.75
+Winston Lee,5,in_play,Forehand,Topspin,34.951782,79,0,0,deep,deuce,near,4.109022,5.438241,deep,ad,far,0.388916,23.833788,1.272461,inside in,In,false,21:25:17,1771.25
+Alex Chang,6,in_play,Forehand,Flat,56.843468,79,0,0,short,deuce,far,-3.7436,16.848328,deep,deuce,near,1.885742,0.474753,1.197266,cross court,In,false,21:25:19,1772.609985
+Winston Lee,7,in_play,Forehand,Slice,30.173912,79,0,0,short,ad,near,-1.144531,10.828125,out,deuce_alley,far,-4.84375,26.083788,1.15918,down the line,In,false,21:25:20,1774.050049
+Alex Chang,8,in_play,Overhead,Topspin,40.872967,79,0,0,deep,deuce,far,-3.011151,18.30402,short,ad,near,-1.144531,10.302878,1.560547,---,In,false,21:25:22,1775.449951
+Winston Lee,9,in_play,Forehand,Flat,54.440338,79,0,0,deep,deuce_alley,near,4.346842,2.620772,deep,deuce,far,-1.417969,24.208788,1.580078,down the line,Out,false,21:25:23,1776.550049
+Winston Lee,1,serve,Serve,Flat,92.685379,80,0,0,deep,deuce,near,1.223968,3.420346,deep,deuce,far,-0.731934,23.896288,2.355469,down the T,Out,false,21:25:46,1799.550049
+Alex Chang,2,return,Backhand,Flat,31.768633,80,0,0,short,ad,near,-0.934082,6.351611,out,deuce,near,1.503906,-1.447122,0.833496,inside in,Net,false,21:25:46,1800.209961
+Winston Lee,1,serve,Serve,Kick,71.56459,81,0,0,short,deuce,near,3.828682,7.643356,deep,deuce,far,-0.89209,23.880663,2.449219,out wide,In,false,21:25:52,1806.339966
+Alex Chang,2,return,Forehand,Slice,39.969936,81,0,0,deep,ad,far,0.564244,21.092642,deep,deuce_alley,near,5.199219,2.52944,1.214844,down the line,In,false,21:25:54,1807.390015
+Winston Lee,3,serve_plus_one,Forehand,Topspin,49.225029,81,0,0,deep,deuce,near,2.494915,2.787498,deep,deuce,far,-0.429443,21.958788,1.128906,cross court,In,false,21:25:55,1809.079956
+Alex Chang,4,return_plus_one,Forehand,Flat,49.424816,81,0,0,deep,deuce,far,-1.106936,19.670576,out,deuce,near,2.730469,-1.103372,1.113281,cross court,In,false,21:25:56,1810.280029
+Winston Lee,5,in_play,Forehand,Topspin,56.109093,81,0,0,deep,deuce,near,2.571178,4.85464,deep,deuce,far,-2.353516,24.865038,1.294922,cross court,In,false,21:25:58,1811.839966
+Alex Chang,6,in_play,Forehand,Flat,71.92038,81,0,0,short,deuce,far,-1.029358,17.615868,out,deuce,near,3.779297,-1.743997,1.257812,cross court,In,false,21:25:59,1813.339966
+Winston Lee,7,in_play,Forehand,Topspin,53.93037,81,0,0,deep,deuce,near,2.667864,3.964777,deep,deuce,far,-2.554688,24.615038,1.073242,cross court,In,false,21:26:01,1814.540039
+Alex Chang,8,in_play,Forehand,Flat,52.493168,81,0,0,deep,deuce_alley,far,-4.784281,21.915953,out,deuce,near,3.742188,-1.259622,1.166016,down the line,Out,false,21:26:02,1815.880005
+Winston Lee,1,serve,Serve,Flat,35.033474,82,0,0,short,ad_alley,near,-4.286835,6.158391,deep,ad,far,0.633789,23.483191,2.310547,out wide,Out,false,21:26:18,1831.77002
+Winston Lee,1,serve,Serve,Slice,74.171486,83,0,0,deep,deuce_alley,near,4.345552,4.961843,deep,deuce,far,-0.936523,23.990038,2.439453,out wide,Out,false,21:26:48,1862.099976
+Alex Chang,2,return,Forehand,Topspin,62.837135,83,0,0,deep,ad,far,1.866553,19.935339,deep,deuce_alley,near,5.441406,-0.267434,1.054688,down the line,In,false,21:26:49,1863.089966
+Winston Lee,1,serve,Serve,Slice,65.364838,84,0,0,short,deuce,near,3.034618,5.878282,deep,deuce,far,-0.556152,22.896288,2.0625,out wide,In,false,21:26:56,1870.300049
+Alex Chang,2,return,Forehand,Flat,62.606541,84,0,0,deep,ad,far,1.061836,19.791996,deep,deuce,near,4.050781,0.927878,1.150391,down the line,In,false,21:26:57,1871.199951
+Winston Lee,3,serve_plus_one,Backhand,Topspin,77.942482,84,0,0,deep,deuce,near,0.560592,1.875103,deep,ad,far,0.070679,22.130663,1.681641,down the line,In,false,21:26:59,1872.589966
+Alex Chang,4,return_plus_one,Backhand,Topspin,36.847382,84,0,0,short,ad,far,0.899303,17.966963,deep,deuce,near,0.48584,0.115378,0.476807,inside in,In,false,21:26:59,1873.170044
+Winston Lee,5,in_play,Forehand,Topspin,54.26696,84,0,0,deep,deuce,near,4.095679,1.724522,out,ad,far,1.628906,25.333788,1.162109,inside in,In,false,21:27:01,1875.099976
+Alex Chang,6,in_play,Forehand,Flat,51.264816,84,0,0,deep,ad,far,2.349796,18.959492,out,deuce,near,2.994141,-2.290872,1.180664,down the line,In,false,21:27:02,1876.199951
+Winston Lee,7,in_play,Backhand,Flat,90.413277,84,0,0,deep,ad,near,-2.228516,3.71875,deep,ad,far,2.044922,24.833788,1.092773,cross court,In,false,21:27:04,1877.77002
+Alex Chang,8,in_play,Backhand,Topspin,66.273743,84,0,0,deep,ad,far,1.6725,19.489201,deep,ad,near,-2.767578,-0.267434,1.068359,cross court,In,false,21:27:05,1878.640015
+Winston Lee,9,in_play,Backhand,Topspin,55.144512,84,0,0,deep,ad_alley,near,-5.144503,1.671787,deep,ad,far,2.480469,24.927538,0.811523,down the line,Out,false,21:27:06,1879.689941
+Winston Lee,1,serve,Serve,Flat,46.681305,86,0,0,short,deuce,far,-1.269531,18.040007,deep,ad,far,0.733398,24.490038,2.617188,out wide,Net,false,21:27:33,1907.069946
+Winston Lee,1,serve,Serve,Kick,62.011353,87,0,0,short,ad,near,-0.129886,8.02049,deep,ad,far,0.738281,22.615038,2.484375,down the T,In,false,21:27:40,1913.699951
+Alex Chang,2,return,Forehand,Topspin,48.277164,87,0,0,deep,deuce,far,-2.120119,22.098841,out,ad,near,-0.648926,-3.572122,1.305664,inside in,In,false,21:27:41,1914.969971
+Winston Lee,3,serve_plus_one,Forehand,Topspin,43.372757,87,0,0,short,deuce,near,2.082508,5.754863,deep,deuce,far,-2.226562,24.146288,1.65625,cross court,In,false,21:27:43,1917
+Alex Chang,4,return_plus_one,Forehand,Flat,66.284012,87,0,0,short,deuce,far,-1.877891,18.264807,deep,deuce,near,2.511719,1.435691,1.267578,cross court,In,false,21:27:44,1918.329956
+Winston Lee,5,in_play,Forehand,Topspin,44.991863,87,0,0,short,ad,near,-0.2854,7.558594,deep,deuce,far,-3.117188,24.771288,2.0625,down the line,In,false,21:27:46,1919.400024
+Alex Chang,6,in_play,Volley,Slice,24.918674,87,0,0,short,ad,near,-1.347656,11.515625,short,ad,near,-0.2854,7.033347,2.107422,cross court,Net,false,21:27:46,1920.300049
+Alex Chang,1,serve,Serve,Flat,115.817116,91,0,0,short,ad,near,-1.249738,6.178085,deep,ad,far,1.287109,24.802538,2.625,down the T,In,false,21:29:53,2046.849976
+Winston Lee,2,return,Forehand,Slice,27.786224,91,0,0,short,ad,near,-1.036133,11.671875,out,ad,near,-3.289062,-0.626809,1.177734,inside out,Net,false,21:29:54,2047.550049
+Alex Chang,1,serve,Serve,Flat,103.639519,92,0,0,deep,deuce,near,3.588886,4.364946,deep,deuce,far,-0.465088,23.865038,2.462891,out wide,Out,false,21:30:13,2067.01001
+Winston Lee,2,return,Backhand,Flat,40.297146,92,0,0,short,deuce_out,far,-8.256382,17.881493,out,deuce_alley,near,4.445312,-1.189309,0.927734,inside in,Out,false,21:30:14,2067.709961
+Alex Chang,1,serve,Serve,Kick,82.892296,93,0,0,short,deuce,near,1.483584,7.792551,deep,deuce,far,-0.528809,23.568163,2.232422,down the T,In,false,21:30:23,2076.449951
+Winston Lee,2,return,Forehand,Flat,47.8717,93,0,0,deep,deuce,far,-1.082206,22.718725,out,deuce,near,2.185547,-1.314309,1.316406,cross court,In,false,21:30:24,2077.379883
+Alex Chang,3,serve_plus_one,Backhand,Topspin,47.518299,93,0,0,short,deuce,near,1.124307,6.458601,deep,deuce,far,-1.524414,24.333788,1.412109,inside out,In,false,21:30:25,2079.01001
+Winston Lee,4,return_plus_one,Forehand,Topspin,62.235233,93,0,0,deep,ad,far,3.263462,20.210741,deep,deuce,near,2.052734,-0.509622,1.101562,down the line,In,false,21:30:27,2080.47998
+Alex Chang,5,in_play,Backhand,Topspin,58.332993,93,0,0,short,ad,near,-0.269278,6.474625,out,ad,far,2.753906,25.130663,1.185547,cross court,In,false,21:30:28,2081.810059
+Winston Lee,6,in_play,Forehand,Topspin,52.80835,93,0,0,deep,deuce,far,-0.073303,23.346382,out,ad,near,-1.735352,-1.408059,1.164062,inside in,In,false,21:30:29,2083.110107
+Alex Chang,7,in_play,Forehand,Flat,47.894802,93,0,0,deep,deuce,near,2.141503,3.489589,deep,deuce,far,-1.549805,24.646288,0.987305,cross court,In,false,21:30:31,2084.409912
+Winston Lee,8,in_play,Forehand,Topspin,62.349846,93,0,0,deep,deuce,far,-3.106934,22.367058,out,deuce,near,2.689453,-1.306497,1.3125,cross court,In,false,21:30:32,2085.97998
+Alex Chang,1,serve,Serve,Slice,97.635292,94,0,0,short,ad_alley,near,-4.382365,6.727963,deep,ad,far,1.300781,24.583788,2.636719,out wide,Out,false,21:30:55,2108.580078
+Alex Chang,1,serve,Serve,Flat,77.18705,95,0,0,short,ad,near,-2.879117,6.349583,deep,ad,far,0.907715,23.036913,2.193359,out wide,In,false,21:31:10,2123.669922
+Winston Lee,2,return,Backhand,Topspin,52.788559,95,0,0,deep,ad,far,0.88154,19.015999,out,ad_alley,near,-4.964844,-1.009622,1.217773,down the line,In,false,21:31:11,2124.659912
+Alex Chang,3,serve_plus_one,Backhand,Flat,85.816505,95,0,0,short,deuce,near,3.600428,5.574282,deep,ad,far,1.461914,23.240038,1.058594,down the line,In,false,21:31:12,2126.110107
+Winston Lee,1,serve,Serve,Kick,88.41433,97,0,0,short,deuce,far,-1.339608,18.20639,deep,deuce,near,1.273438,0.302878,2.412109,down the T,In,false,21:31:44,2157.969971
+Alex Chang,2,return,Backhand,Slice,44.549599,97,0,0,short,ad,near,-1.808351,5.491513,deep,deuce,far,-2.121094,24.833788,1.246094,inside in,In,false,21:31:45,2158.699951
+Winston Lee,3,serve_plus_one,Forehand,Slice,40.382164,97,0,0,deep,deuce,far,-0.793457,20.5625,deep,ad,near,-0.850586,2.631003,0.612793,inside in,In,false,21:31:46,2160.23999
+Alex Chang,4,return_plus_one,Forehand,Slice,38.416439,97,0,0,short,deuce,far,-0.793457,18.288,deep,deuce,far,-0.793457,21.771288,0.783691,cross court,Net,false,21:31:48,2161.449951
+Winston Lee,1,serve,Serve,Flat,89.539993,98,0,0,short,ad,far,2.00664,18.264086,deep,ad,near,-1.238281,0.224753,2.435547,down the T,In,false,21:32:18,2191.370117
+Alex Chang,2,return,Backhand,Slice,40.374706,98,0,0,deep,ad,near,-0.2316,0.64239,deep,ad,far,2.990234,24.646288,1.246094,cross court,In,false,21:32:18,2192.25
+Winston Lee,3,serve_plus_one,Forehand,Topspin,52.657707,98,0,0,deep,ad,far,1.105187,19.40472,out,ad,near,-1.025391,-2.361185,1.167969,inside out,In,false,21:32:20,2194.22998
+Alex Chang,4,return_plus_one,Backhand,Topspin,49.507225,98,0,0,deep,ad,near,-3.732586,1.493399,deep,ad,far,1.415039,23.990038,1.908203,cross court,In,false,21:32:22,2195.929932
+Winston Lee,5,in_play,Backhand,Topspin,52.647163,98,0,0,deep,ad,far,0.179614,20.850306,out,ad,near,-3.589844,-0.759622,1.625,cross court,In,false,21:32:23,2197.27002
+Alex Chang,6,in_play,Backhand,Topspin,68.753288,98,0,0,deep,ad,near,-2.74929,2.809568,deep,ad,far,0.734863,23.833788,1.049805,cross court,In,false,21:32:25,2198.669922
+Winston Lee,7,in_play,Backhand,Topspin,49.063961,98,0,0,deep,ad,far,0.600098,18.4375,out,ad,near,-3.46875,-2.079935,1.040039,cross court,In,false,21:32:26,2199.699951
+Alex Chang,8,in_play,Volley,Slice,22.516716,98,0,0,deep,ad,near,-3.59078,0.456065,deep,ad,far,0.600098,19.646288,0.182129,cross court,In,false,21:32:27,2200.699951
+Winston Lee,9,in_play,Backhand,Flat,32.767487,98,0,0,deep,deuce,far,-1.676416,22.221956,deep,ad,near,-3.146484,0.623191,1.246094,down the line,In,false,21:32:28,2201.77002
+Alex Chang,10,in_play,Backhand,Slice,27.376183,98,0,0,short,deuce,near,0.520996,8.5625,deep,deuce,far,-1.172852,22.865038,2.761719,inside out,In,false,21:32:31,2204.870117
+Winston Lee,11,in_play,Overhead,Flat,90.64077,98,0,0,short,ad,far,2.582535,18.259466,short,deuce,near,0.520996,8.037253,2.445312,---,In,false,21:32:33,2206.899902
+Alex Chang,12,in_play,Backhand,Slice,44.182835,98,0,0,out,deuce,near,0.043152,-2.988459,out,ad,far,3.236328,25.443163,3.615234,down the line,Out,false,21:32:34,2207.949951
+Winston Lee,1,serve,Serve,Slice,90.55899,99,0,0,short,deuce,far,-3.032243,18.022013,deep,deuce,near,1.240234,-0.017434,2.521484,out wide,In,false,21:32:56,2229.429932
+Alex Chang,2,return,Forehand,Flat,53.556324,99,0,0,deep,deuce,near,1.562737,3.048229,deep,deuce,far,-3.832031,24.333788,1.46875,cross court,In,false,21:32:56,2230.199951
+Winston Lee,3,serve_plus_one,Forehand,Topspin,52.253693,99,0,0,deep,deuce,far,-1.694177,23.7442,deep,deuce,near,2.289062,-0.408059,0.84668,cross court,In,false,21:32:58,2231.5
+Alex Chang,4,return_plus_one,Backhand,Flat,25.956486,99,0,0,short,deuce,far,-1.666992,18.089914,out,deuce,far,-1.151367,25.177538,0.380859,inside out,Net,false,21:32:59,2232.76001
+Winston Lee,1,serve,Serve,Flat,127.740654,100,0,0,deep,ad,far,2.877506,19.811975,deep,ad,near,-1.166992,0.542167,2.300781,out wide,Out,false,21:33:19,2253.139893
+Alex Chang,2,return,Backhand,Slice,44.784195,100,0,0,deep,ad,near,-0.29414,0.889619,deep,ad,far,3.748047,24.646288,0.916016,cross court,In,false,21:33:20,2253.76001
+Winston Lee,1,serve,Serve,Kick,84.248978,101,0,0,short,ad,far,1.863729,17.298965,deep,ad,near,-1.085938,0.334128,2.464844,down the T,In,false,21:33:28,2262.060059
+Alex Chang,2,return,Backhand,Topspin,44.033455,101,0,0,deep,ad,near,-0.03977,4.463684,out,ad,far,2.542969,25.427538,1.005859,cross court,In,false,21:33:29,2263.23999
+Winston Lee,3,serve_plus_one,Forehand,Topspin,59.770878,101,0,0,deep,ad,far,2.632721,23.751915,out,ad,near,-1.180664,-2.697122,1.755859,inside out,In,false,21:33:31,2265.159912
+Alex Chang,4,return_plus_one,Backhand,Topspin,46.847244,101,0,0,deep,ad,near,-1.618247,2.549453,out,ad,far,2.587891,25.177538,1.644531,cross court,In,false,21:33:33,2266.76001
+Winston Lee,5,in_play,Forehand,Topspin,61.114544,101,0,0,deep,ad,far,2.899301,20.768927,out,ad,near,-1.922852,-2.642435,1.652344,inside out,In,false,21:33:35,2268.389893
+Alex Chang,6,in_play,Backhand,Topspin,57.882259,101,0,0,short,ad,near,-0.399896,6.383361,out,ad,far,3.712891,25.552538,1.369141,cross court,In,false,21:33:36,2269.959961
+Winston Lee,7,in_play,Forehand,Topspin,52.983231,101,0,0,deep,deuce,far,-2.129605,21.073053,out,ad,near,-1.950195,-1.689309,1.337891,inside in,In,false,21:33:37,2271.320068
+Alex Chang,8,in_play,Forehand,Topspin,49.737812,101,0,0,short,deuce,near,1.577637,5.748532,deep,deuce,far,-1.930664,24.740038,1.607422,cross court,In,false,21:33:39,2272.909912
+Winston Lee,9,in_play,Forehand,Topspin,57.898026,101,0,0,short,deuce,far,-2.44324,18.175463,out,deuce,near,2.488281,-1.298684,1.004883,cross court,In,false,21:33:41,2274.389893
+Alex Chang,10,in_play,Forehand,Flat,72.92598,101,0,0,deep,deuce,near,3.167233,4.939577,out,deuce,far,-3.919922,25.318163,1.494141,cross court,In,false,21:33:42,2275.719971
+Winston Lee,11,in_play,Forehand,Slice,42.175091,101,0,0,deep,ad,far,2.360213,20.806295,out,deuce_alley,near,4.445312,-1.103372,0.860352,down the line,In,false,21:33:43,2276.919922
+Alex Chang,12,in_play,Backhand,Topspin,59.377064,101,0,0,short,ad,near,-2.146378,5.966861,deep,ad,far,1.554688,22.646288,1.220703,cross court,In,false,21:33:45,2278.840088
+Winston Lee,13,in_play,Backhand,Flat,52.862408,101,0,0,deep,ad,far,2.328125,20.28125,out,ad,near,-3.595703,-1.103372,0.882812,cross court,In,false,21:33:46,2280.060059
+Alex Chang,14,in_play,Backhand,Topspin,25.259254,101,0,0,short,ad_alley,far,4.585938,15.650558,deep,ad,far,2.328125,21.490038,0.585449,down the line,Net,false,21:33:47,2281.040039
+Winston Lee,1,serve,Serve,Kick,91.363564,102,0,0,short,deuce,far,-0.869053,16.474934,deep,deuce,near,1.037109,0.591941,2.396484,down the T,In,false,21:34:54,2347.75
+Alex Chang,2,return,Backhand,Slice,37.278069,102,0,0,deep,deuce,near,0.225061,5.435482,deep,deuce,far,-1.443359,22.568163,2.242188,inside out,In,false,21:34:55,2348.47998
+Winston Lee,3,serve_plus_one,Forehand,Topspin,58.020004,102,0,0,deep,deuce,far,-3.207654,23.400047,deep,ad,near,-0.038422,0.240378,0.95166,inside in,In,false,21:34:56,2350.01001
+Alex Chang,4,return_plus_one,Forehand,Flat,49.122883,102,0,0,deep,ad,near,-0.124901,4.886988,out,deuce,far,-3.236328,25.990038,0.736328,down the line,In,false,21:34:57,2351.25
+Winston Lee,5,in_play,Forehand,Topspin,54.57365,102,0,0,deep,ad,far,2.090855,23.762356,out,deuce,near,0.394531,-1.915872,1.398438,down the line,In,false,21:34:59,2352.820068
+Alex Chang,6,in_play,Backhand,Slice,28.911314,102,0,0,short,ad,near,-1.01868,9.666265,out,ad,far,2.183594,25.911913,0.128906,cross court,In,false,21:35:00,2354.169922
+Winston Lee,1,serve,Serve,Flat,51.544907,103,0,0,short,deuce,near,2.191406,8.274133,deep,ad,near,-1.558594,0.162253,2.439453,out wide,Net,false,21:35:21,2375.280029
+Winston Lee,1,serve,Serve,Kick,72.583115,104,0,0,short,ad,far,0.773461,18.27198,deep,ad,near,-0.863281,0.349753,2.455078,down the T,In,false,21:35:29,2382.850098
+Alex Chang,2,return,Forehand,Topspin,53.056561,104,0,0,out,ad,near,-1.226077,-0.686355,deep,ad,far,1.198242,22.771288,1.300781,inside out,Out,false,21:35:30,2383.830078
+Alex Chang,1,serve,Serve,Kick,95.014908,105,0,0,short,deuce,far,-0.478644,16.996141,deep,deuce,near,0.512207,0.363085,2.28125,down the T,In,false,21:37:15,2488.899902
+Winston Lee,2,return,Backhand,Slice,35.428696,105,0,0,out,ad,near,-3.389428,-0.894886,out,deuce,far,-0.486816,25.021288,1.144531,inside in,Out,false,21:37:16,2489.72998
+Alex Chang,1,serve,Serve,Slice,97.340538,106,0,0,short,ad,far,3.580758,16.733238,deep,ad,near,-1.731445,0.506003,2.474609,out wide,In,false,21:37:34,2507.449951
+Winston Lee,2,return,Backhand,Topspin,29.144655,106,0,0,short,ad,near,-1.624023,8.726562,deep,ad_alley,far,5.308594,23.771288,1.712891,down the line,In,false,21:37:34,2508.26001
+Alex Chang,3,serve_plus_one,Overhead,Topspin,18.186579,106,0,0,deep,deuce,far,-0.070878,23.728823,short,ad,near,-1.624023,8.201316,1.972656,down the line,In,false,21:37:36,2510.209961
+Winston Lee,4,return_plus_one,Forehand,Topspin,30.534533,106,0,0,short,deuce,near,2.683594,10.21875,deep,deuce,far,-1.486328,23.115038,1.546875,cross court,In,false,21:37:37,2511.25
+Alex Chang,5,in_play,Volley,Slice,18.186579,106,0,0,short,deuce,near,2.560547,11.695312,short,deuce,near,2.683594,9.693503,0.64502,cross court,Net,false,21:37:38,2512.310059
+Alex Chang,1,serve,Serve,Flat,117.208252,107,0,0,short,deuce,far,-3.95222,18.2533,deep,deuce,near,0.849609,-0.009622,2.578125,out wide,In,false,21:38:12,2546.040039
+Winston Lee,2,return,Forehand,Topspin,46.277161,107,0,0,short,deuce,far,-2.478516,15.108196,out,deuce_alley,far,-4.691406,25.052538,0.857422,down the line,Net,false,21:38:13,2546.76001
+Alex Chang,1,serve,Serve,Kick,77.836914,108,0,0,short,deuce,far,-0.921185,16.636539,deep,deuce,near,0.492188,0.816997,2.359375,down the T,In,false,21:38:24,2558.040039
+Winston Lee,2,return,Backhand,Flat,36.380459,108,0,0,short,ad,near,-1.865283,5.606229,deep,deuce,far,-0.968262,24.615038,1.332031,inside in,In,false,21:38:25,2559.110107
+Alex Chang,3,serve_plus_one,Backhand,Topspin,60.754955,108,0,0,deep,deuce,far,-3.956352,23.717316,deep,ad,near,-2.507812,2.177878,1.632812,down the line,In,false,21:38:27,2560.639893
+Winston Lee,4,return_plus_one,Forehand,Topspin,15.610012,108,0,0,short,deuce,far,-1.557617,18.0625,deep,deuce,far,-1.616211,21.865038,4.566406,cross court,Net,false,21:38:29,2562.919922
+Alex Chang,1,serve,Serve,Flat,42.893494,110,0,0,short,ad,near,-0.381348,5.996119,deep,ad,near,-1.37207,1.131003,2.244141,down the T,Net,false,21:38:53,2586.540039
+Alex Chang,1,serve,Serve,Slice,86.930206,111,0,0,short,ad,far,3.302119,18.080057,deep,ad,near,-1.561523,0.974753,2.521484,out wide,In,false,21:39:06,2599.399902
+Winston Lee,2,return,Backhand,Flat,48.765308,111,0,0,short,ad,near,-1.355013,6.394334,out,ad_alley,far,4.71875,25.740038,1.398438,down the line,In,false,21:39:07,2600.370117
+Alex Chang,3,serve_plus_one,Backhand,Topspin,67.510246,111,0,0,deep,deuce,far,-2.476875,22.095001,deep,ad,near,-2.845703,1.459128,1.28125,down the line,In,false,21:39:08,2601.719971
+Winston Lee,4,return_plus_one,Forehand,Topspin,43.463402,111,0,0,short,deuce,near,0.411865,7.310303,out,deuce,far,-2.03125,25.302538,0.985352,cross court,In,false,21:39:09,2602.820068
+Alex Chang,5,in_play,Volley,Flat,19.918634,111,0,0,deep,ad,far,2.887556,19.874058,short,deuce,near,0.411865,8.666835,4.394531,down the line,In,false,21:39:10,2603.870117
+Winston Lee,6,in_play,Backhand,Topspin,43.17448,111,0,0,short,deuce,near,2.376953,9.234375,deep,ad,far,3.132812,23.271288,0.631348,down the line,In,false,21:39:11,2604.840088
+Alex Chang,7,in_play,Volley,Flat,24.248772,111,0,0,short,deuce,far,-3.269825,16.303982,short,deuce,near,2.376953,8.709128,1.791016,cross court,In,false,21:39:12,2605.600098
+Winston Lee,8,in_play,Forehand,Topspin,38.92601,111,0,0,short,deuce,near,3.827891,6.895722,deep,deuce,far,-3.632812,20.755663,3.259766,cross court,In,false,21:39:14,2607.469971
+Alex Chang,1,serve,Serve,Kick,96.899948,112,0,0,short,center_line,far,-0.017821,17.20322,deep,deuce,near,0.362793,0.203817,2.242188,down the T,In,false,21:39:48,2641.75
+Alex Chang,1,serve,Serve,Kick,85.77803,113,0,0,deep,deuce,far,-1.311094,19.169121,deep,deuce,near,0.618164,0.466941,2.558594,down the T,Out,false,21:39:58,2651.810059
+Winston Lee,2,return,Backhand,Flat,38.804886,113,0,0,deep,deuce,near,0.690918,0.820312,deep,deuce,far,-1.081055,24.271288,1.154297,inside out,In,false,21:39:59,2652.72998
+Alex Chang,3,serve_plus_one,Forehand,Flat,44.102364,113,0,0,deep,deuce,far,-0.92259,22.581738,deep,deuce,near,0.854492,0.529441,1.131836,cross court,In,false,21:40:00,2654.209961
+Winston Lee,1,serve,Serve,Slice,83.915932,115,0,0,deep,deuce,near,1.725874,4.821362,deep,deuce,far,-0.901855,23.244484,2.310547,down the T,Out,false,21:40:26,2680.310059
+Alex Chang,2,return,Backhand,Topspin,42.698666,115,0,0,deep,ad,far,1.049115,20.057892,deep,deuce,near,2.111328,0.060691,1.248047,inside in,In,false,21:40:27,2681.159912
+Winston Lee,1,serve,Serve,Slice,69.440704,116,0,0,short,deuce,near,2.390738,7.734338,deep,deuce,far,-0.709473,23.84786,2.300781,out wide,In,false,21:40:34,2687.73999
+Alex Chang,2,return,Forehand,Flat,50.921101,116,0,0,deep,deuce,far,-1.897392,23.733534,deep,deuce,near,3.011719,1.724753,1.401367,cross court,In,false,21:40:35,2688.639893
+Winston Lee,3,serve_plus_one,Forehand,Topspin,55.774834,116,0,0,deep,deuce,near,0.101005,4.642306,out,deuce,far,-1.513672,25.333788,0.348145,cross court,In,false,21:40:36,2689.860107
+Alex Chang,4,return_plus_one,Backhand,Topspin,60.09816,116,0,0,deep,deuce,far,-1.488313,20.079947,deep,deuce,near,0.343262,0.138816,1.137695,inside out,In,false,21:40:37,2691.110107
+Winston Lee,5,in_play,Forehand,Topspin,45.86977,116,0,0,deep,deuce,near,1.086814,4.501132,deep,deuce,far,-1.962891,24.818163,1.101562,cross court,In,false,21:40:38,2692.340088
+Alex Chang,6,in_play,Forehand,Topspin,72.072792,116,0,0,deep,deuce,far,-2.849922,19.753141,deep,deuce,near,1.209961,1.787253,1.285156,cross court,In,false,21:40:40,2693.860107
+Winston Lee,7,in_play,Forehand,Flat,49.193378,116,0,0,deep,deuce,near,3.151787,1.924709,out,deuce,far,-3.679688,25.115038,1.353516,cross court,In,false,21:40:41,2694.97998
+Alex Chang,8,in_play,Forehand,Flat,47.049751,116,0,0,deep,ad,far,3.08329,19.235312,out,deuce,near,2.171875,-1.017434,0.712891,down the line,In,false,21:40:42,2696.280029
+Winston Lee,9,in_play,Backhand,Topspin,56.013767,116,0,0,deep,ad,near,-3.181912,5.371696,deep,ad,far,3.050781,23.661913,0.849609,cross court,In,false,21:40:44,2697.810059
+Alex Chang,10,in_play,Backhand,Topspin,48.140041,116,0,0,deep,ad,far,1.893555,20.21875,out,ad_alley,near,-4.378906,-0.712747,1.123047,down the line,In,false,21:40:45,2699.090088
+Winston Lee,11,in_play,Backhand,Topspin,40.963959,116,0,0,deep,deuce,near,2.737813,3.998365,deep,ad,far,2.464844,22.411913,2.0625,down the line,In,false,21:40:46,2700.360107
+Alex Chang,12,in_play,Forehand,Topspin,61.320038,116,0,0,deep,ad,far,0.239512,18.466896,deep,deuce,near,2.476562,0.779441,1.448242,down the line,In,false,21:40:48,2701.830078
+Winston Lee,13,in_play,Forehand,Topspin,38.314728,116,0,0,deep,deuce,near,1.144692,0.62948,deep,ad,far,0.307861,24.302538,0.958008,inside in,In,false,21:40:49,2702.909912
+Alex Chang,14,in_play,Forehand,Topspin,47.784988,116,0,0,deep,ad,far,1.689111,21.145193,out,deuce,near,1.051758,-1.423684,1.030273,down the line,In,false,21:40:51,2704.659912
+Winston Lee,15,in_play,Backhand,Topspin,52.186543,116,0,0,deep,ad,near,-0.958015,2.892775,out,ad,far,1.665039,25.177538,1.201172,cross court,In,false,21:40:52,2706.26001
+Alex Chang,16,in_play,Backhand,Topspin,52.585133,116,0,0,deep,ad,far,2.200881,20.862761,deep,ad,near,-1.411133,0.763816,1.391602,cross court,In,false,21:40:54,2707.51001
+Winston Lee,17,in_play,Backhand,Flat,71.166336,116,0,0,deep,ad,near,-0.947481,5.370277,out,ad,far,2.671875,25.036913,1.447266,cross court,In,false,21:40:55,2709.139893
+Alex Chang,18,in_play,Backhand,Topspin,89.207977,116,0,0,deep,deuce,far,-3.735291,19.200594,deep,ad,near,-1.850586,0.334128,1.253906,down the line,In,false,21:40:57,2710.370117
+Winston Lee,19,in_play,Forehand,Slice,35.511959,116,0,0,out,ad_out,near,-5.670068,-0.375,deep,deuce,far,-2.939453,24.521288,0.594238,down the line,Out,false,21:40:58,2711.459961
+Winston Lee,1,serve,Serve,Flat,86.620857,118,0,0,short,ad,near,-1.068807,6.398335,deep,ad,far,1.026367,24.177538,2.544922,down the T,In,false,21:41:26,2740.340088
+Alex Chang,2,return,Forehand,Slice,28.64353,118,0,0,short,ad,far,0.054584,15.862553,deep,ad,near,-1.901367,0.006003,1.244141,inside out,In,false,21:41:27,2741.120117
+Winston Lee,3,serve_plus_one,Forehand,Topspin,59.782639,118,0,0,deep,deuce,near,3.074947,2.658699,short,ad,far,0.630371,18.365038,1.996094,inside in,In,false,21:41:30,2743.399902
+Alex Chang,4,return_plus_one,Forehand,Flat,52.0196,118,0,0,deep,ad,far,1.648438,19.103722,deep,deuce,near,3.171875,0.818503,1.212891,down the line,In,false,21:41:30,2744.340088
+Winston Lee,1,serve,Serve,Slice,82.316032,119,0,0,deep,deuce,near,0.606492,4.083464,deep,deuce,far,-0.737305,23.521288,2.226562,down the T,Out,false,21:41:53,2767.090088
+Winston Lee,1,serve,Serve,Slice,69.313873,120,0,0,deep,deuce,near,3.058106,5.401589,deep,deuce,far,-0.950195,24.458788,2.429688,out wide,Out,false,21:42:01,2774.919922
+Alex Chang,2,return,Forehand,Flat,45.062611,120,0,0,deep,deuce,far,-2.846016,23.723482,deep,deuce,near,3.654297,0.818503,1.107422,cross court,In,false,21:42:02,2775.820068
+Winston Lee,1,serve,Serve,Flat,104.92646,122,0,0,short,ad,near,-1.831728,6.551794,deep,ad,far,1.160156,24.880663,2.699219,down the T,In,false,21:42:25,2798.75
+Alex Chang,2,return,Forehand,Topspin,42.921257,122,0,0,deep,ad,far,2.42384,22.005188,deep,ad,near,-2.605469,-0.243997,1.140625,inside out,In,false,21:42:26,2799.459961
+Winston Lee,3,serve_plus_one,Backhand,Topspin,56.692501,122,0,0,deep,deuce,near,2.225107,1.636717,deep,ad,far,3.109375,24.896288,1.519531,down the line,In,false,21:42:28,2801.449951
+Alex Chang,4,return_plus_one,Forehand,Topspin,46.915733,122,0,0,deep,ad,far,1.157223,19.398964,out,deuce,near,2.150391,-0.861184,1.080078,down the line,In,false,21:42:29,2802.659912
+Winston Lee,5,in_play,Backhand,Topspin,51.016392,122,0,0,short,ad,near,-1.001087,6.897723,deep,ad,far,1.026367,22.927538,1.669922,cross court,In,false,21:42:30,2804.159912
+Alex Chang,6,in_play,Backhand,Topspin,58.411327,122,0,0,deep,ad,far,2.958506,21.668974,deep,ad,near,-2.363281,-0.439309,0.994141,cross court,In,false,21:42:32,2805.51001
+Winston Lee,7,in_play,Backhand,Topspin,43.675926,122,0,0,deep,deuce,near,0.744735,4.256075,deep,ad,far,3.476562,24.771288,1.200195,down the line,In,false,21:42:33,2806.810059
+Alex Chang,8,in_play,Forehand,Topspin,58.92408,122,0,0,short,deuce,far,-2.729861,17.265343,deep,ad,near,-0.302246,1.177878,1.582031,inside in,In,false,21:42:34,2808.280029
+Winston Lee,9,in_play,Forehand,Topspin,41.092197,122,0,0,short,deuce,near,2.216797,9.148438,deep,deuce,far,-2.869141,24.927538,0.823242,cross court,In,false,21:42:36,2809.51001
+Alex Chang,10,in_play,Volley,Flat,23.382744,122,0,0,deep,ad,far,3.091797,22.453125,short,deuce,near,2.216797,8.623191,1.162109,down the line,In,false,21:42:37,2810.459961
+Winston Lee,11,in_play,Volley,Flat,18.186579,122,0,0,deep,ad,far,3.091797,22.453125,deep,ad,far,3.091797,23.661913,0.462402,cross court,Net,false,21:42:37,2811.26001
+Winston Lee,12,in_play,Backhand,Topspin,37.164093,122,0,0,deep,deuce,near,2.73595,0.396096,deep,ad,far,3.105469,24.490038,1.008789,down the line,In,false,21:42:38,2811.76001
+Winston Lee,1,serve,Serve,Slice,53.791561,123,0,0,short,ad,far,0.207714,18.20639,deep,deuce,far,-0.613281,23.769947,1.869141,down the T,Net,false,21:43:02,2835.840088
+Winston Lee,1,serve,Serve,Kick,62.23875,124,0,0,short,deuce_alley,near,4.312661,6.040414,deep,deuce,far,-0.99707,24.615038,2.527344,out wide,Out,false,21:43:16,2850.179932
+Alex Chang,2,return,Forehand,Topspin,56.965508,124,0,0,deep,deuce,far,-0.421757,22.200743,deep,deuce_out,near,5.507812,2.920065,1.085938,down the line,In,false,21:43:17,2851.189941
+Winston Lee,3,serve_plus_one,Forehand,Topspin,61.767101,124,0,0,out,ad,near,-3.005091,-1.437869,deep,deuce,far,-0.249756,22.427538,1.016602,down the line,Out,false,21:43:18,2852.360107
+Winston Lee,1,serve,Serve,Flat,57.680515,125,0,0,deep,ad,near,-1.866176,4.972061,deep,ad,far,0.678711,23.537323,2.484375,down the T,Out,false,21:43:42,2876.169922
+Alex Chang,2,return,Forehand,Flat,55.606934,125,0,0,deep,ad,far,0.061323,20.06024,out,ad,near,-2.28125,-0.642434,1.171875,inside out,In,false,21:43:43,2877.169922
+Winston Lee,1,serve,Serve,Flat,32.141685,126,0,0,short,ad,near,-1.550214,6.25107,deep,ad,far,0.589844,22.693163,2.273438,down the T,In,false,21:43:47,2881.360107
+Alex Chang,2,return,Forehand,Flat,60.456329,126,0,0,deep,ad,far,0.068592,21.139832,deep,ad,near,-2.142578,1.091941,1.404297,inside out,In,false,21:43:51,2884.5
+Winston Lee,3,serve_plus_one,Forehand,Slice,54.41349,126,0,0,short,deuce,near,1.805664,8.53125,deep,ad,far,0.885254,23.958788,0.662109,inside in,In,false,21:43:52,2885.689941
+Alex Chang,4,return_plus_one,Volley,Slice,25.114799,126,0,0,deep,ad,far,0.047486,19.283163,short,deuce,near,1.805664,8.006003,1.131836,down the line,In,false,21:43:52,2886.340088
+Winston Lee,5,in_play,Forehand,Topspin,36.276726,126,0,0,deep,deuce,near,4.042069,2.847995,deep,deuce,far,-0.307129,23.865038,0.615234,cross court,In,false,21:43:54,2887.48999
+Winston Lee,1,serve,Serve,Flat,92.26799,128,0,0,short,ad,near,-0.644694,6.758907,deep,deuce,far,-1.133789,24.458788,2.445312,down the T,Out,false,21:44:35,2929.199951
+Winston Lee,1,serve,Serve,Kick,72.826042,129,0,0,short,deuce,near,2.48114,6.04959,deep,deuce,far,-0.966309,24.021288,2.419922,out wide,In,false,21:44:43,2937.129883
+Alex Chang,2,return,Forehand,Flat,44.629559,129,0,0,deep,ad,far,1.8589,23.772768,deep,deuce,near,3.246094,1.373191,1.241211,down the line,In,false,21:44:44,2938.030029
+Winston Lee,3,serve_plus_one,Forehand,Topspin,39.244026,129,0,0,short,deuce,near,2.791785,5.568009,deep,deuce,far,-0.054352,23.771288,1.075195,cross court,In,false,21:44:46,2939.370117
+Alex Chang,4,return_plus_one,Forehand,Topspin,56.93988,129,0,0,deep,deuce,far,-3.600922,20.254416,deep,deuce,near,1.686523,4.576315,1.580078,cross court,In,false,21:44:47,2940.870117
+Winston Lee,5,in_play,Forehand,Flat,35.605576,129,0,0,out,ad,near,-0.775605,-1.186753,deep,deuce,far,-3.65625,24.802538,1.185547,down the line,Out,false,21:44:48,2942.02002
+Alex Chang,1,serve,Serve,Kick,92.869446,130,0,0,short,deuce,near,0.03977,5.582718,deep,deuce,far,-0.422607,23.396288,2.5,down the T,In,false,21:46:43,3057.02002
+Winston Lee,2,return,Backhand,Slice,32.644997,130,0,0,short,ad,far,1.894107,16.675825,out,ad,near,-0.401611,-2.111185,1.330078,cross court,In,false,21:46:44,3057.889893
+Alex Chang,3,serve_plus_one,Backhand,Flat,68.973427,130,0,0,deep,ad,near,-3.506264,2.190738,deep,ad,far,1.90625,20.271288,1.537109,cross court,In,false,21:46:46,3059.870117
+Alex Chang,1,serve,Serve,Flat,22.456337,132,0,0,short,ad,far,0.672363,17.515625,deep,ad,far,0.831543,23.911913,2.517578,down the T,Net,false,21:47:03,3077.080078
+Alex Chang,1,serve,Serve,Flat,121.674576,133,0,0,short,ad,near,-1.090376,6.101933,deep,ad,far,1.317383,24.802538,2.550781,down the T,In,false,21:47:11,3084.780029
+Winston Lee,2,return,Forehand,Topspin,50.369862,133,0,0,deep,ad,far,0.919588,23.539709,deep,ad,near,-2.724609,-0.189309,1.554688,inside out,In,false,21:47:12,3085.550049
+Alex Chang,3,serve_plus_one,Backhand,Topspin,44.103691,133,0,0,deep,ad,near,-2.167101,4.22706,deep,ad,far,1.324219,24.240038,1.150391,cross court,In,false,21:47:13,3087.030029
+Winston Lee,4,return_plus_one,Backhand,Topspin,54.900127,133,0,0,deep,ad,far,1.998675,22.681099,deep,ad,near,-2.675781,0.271628,1.398438,cross court,In,false,21:47:15,3088.530029
+Alex Chang,5,in_play,Backhand,Flat,52.780643,133,0,0,deep,ad,near,-2.941406,2.479187,out,ad,far,2.935547,25.943163,1.263672,cross court,In,false,21:47:16,3090.050049
+Winston Lee,6,in_play,Backhand,Flat,47.879944,133,0,0,short,deuce_alley,far,-4.9179,18.284864,deep,ad,near,-3.164062,-0.009622,0.580078,down the line,Out,false,21:47:17,3091.199951
+Alex Chang,1,serve,Serve,Flat,108.712776,134,0,0,short,deuce,near,3.598843,6.95659,deep,deuce,far,-0.540527,24.099413,2.550781,out wide,In,false,21:47:41,3114.459961
+Winston Lee,2,return,Forehand,Topspin,33.557156,134,0,0,deep,deuce,far,-4.060917,21.136236,deep,deuce_alley,near,5.132812,0.435691,1.137695,down the line,In,false,21:47:41,3115.350098
+Alex Chang,3,serve_plus_one,Backhand,Topspin,70.530045,134,0,0,short,ad,near,-3.332284,6.28781,deep,deuce,far,-3.560547,22.443163,1.953125,inside in,In,false,21:47:45,3118.540039
+Winston Lee,4,return_plus_one,Backhand,Flat,29.278488,134,0,0,short,deuce,near,1.333984,7.774154,out,ad,near,-2.599609,-1.329934,1.023438,down the line,Net,false,21:47:46,3119.72998
+Alex Chang,1,serve,Serve,Flat,22.944555,136,0,0,short,deuce,far,-1.748047,12.921875,deep,ad,far,0.95459,23.599413,2.142578,out wide,Net,false,21:48:10,3143.830078
+Alex Chang,1,serve,Serve,Flat,104.518913,137,0,0,short,deuce,near,0.074399,5.592771,deep,ad,far,1.321289,24.083788,2.320312,down the T,Out,false,21:48:15,3149.090088
+Alex Chang,1,serve,Serve,Kick,40.730679,138,0,0,short,ad,near,-2.233843,7.501234,deep,ad,far,1.179688,23.833788,2.462891,out wide,In,false,21:48:25,3159.320068
+Winston Lee,2,return,Backhand,Topspin,53.013855,138,0,0,short,deuce,far,-1.095325,18.232548,out,ad_alley,near,-4.183594,-1.376809,1.380859,down the line,In,false,21:48:27,3160.790039
+Alex Chang,3,serve_plus_one,Backhand,Topspin,37.814846,138,0,0,short,deuce,far,-1.835938,15.323325,deep,deuce,far,-0.541504,23.740038,0.984375,inside out,Net,false,21:48:28,3162.070068
+Alex Chang,1,serve,Serve,Flat,33.851639,139,0,0,short,ad,far,2.726562,12.289062,deep,deuce,far,-0.458496,23.490038,2.248047,out wide,Net,false,21:48:59,3193.320068
+Alex Chang,1,serve,Serve,Kick,84.381363,140,0,0,short,deuce,near,1.375403,7.733361,out,deuce,far,-0.799316,25.021288,2.644531,down the T,In,false,21:49:09,3202.620117
+Winston Lee,2,return,Backhand,Flat,47.946957,140,0,0,short,ad,far,1.247527,16.347603,out,deuce,near,2.064453,-0.829934,1.322266,inside in,In,false,21:49:10,3203.620117
+Alex Chang,3,serve_plus_one,Backhand,Topspin,68.330811,140,0,0,deep,ad,near,-2.95209,4.69132,deep,ad,far,1.194336,22.396288,1.236328,cross court,In,false,21:49:11,3204.98999
+Winston Lee,4,return_plus_one,Backhand,Slice,33.288986,140,0,0,deep,deuce,far,-3.504914,18.730005,out,ad,near,-4.03125,-2.09556,1.089844,down the line,In,false,21:49:12,3206.050049
+Alex Chang,5,in_play,Overhead,Flat,89.856606,140,0,0,short,ad,near,-0.35144,6.405262,short,deuce,far,-2.361328,18.740038,2.4375,---,In,false,21:49:16,3209.52002
+Winston Lee,1,serve,Serve,Slice,81.84314,142,0,0,deep,deuce,far,-4.090887,19.527407,deep,deuce,near,0.845215,-0.212747,2.587891,out wide,Out,false,21:49:50,3243.76001
+Alex Chang,2,return,Forehand,Topspin,37.799374,142,0,0,short,deuce,far,-1.242188,17.873339,deep,deuce_alley,far,-5.097656,24.302538,1.107422,down the line,Net,false,21:49:51,3244.679932
+Winston Lee,1,serve,Serve,Slice,78.622269,143,0,0,short,deuce,far,-3.081371,16.447372,deep,deuce,near,1.03125,0.334128,2.46875,out wide,In,false,21:50:07,3261.179932
+Alex Chang,2,return,Forehand,Flat,58.012917,143,0,0,out,deuce,near,2.859561,-0.382336,deep,deuce,far,-3.837891,22.927538,1.523438,cross court,Out,false,21:50:08,3262.01001
+Winston Lee,1,serve,Serve,Kick,73.808517,145,0,0,deep,ad,far,0.782729,20.135601,deep,ad,near,-1.212891,0.841941,2.398438,down the T,Out,false,21:50:29,3283.360107
+Alex Chang,2,return,Forehand,Topspin,44.267197,145,0,0,deep,ad_alley,near,-5.223477,1.28645,deep,ad,far,1.40332,23.365038,1.277344,inside in,Out,false,21:50:31,3284.379883
+Winston Lee,1,serve,Serve,Kick,75.999458,146,0,0,short,ad,far,1.545007,18.286367,deep,ad,near,-0.743164,-0.439309,2.429688,down the T,In,false,21:50:41,3295.320068
+Alex Chang,2,return,Forehand,Topspin,47.121117,146,0,0,short,deuce,near,0.937988,6.257812,out,ad,far,1.761719,25.771288,1.207031,inside in,In,false,21:50:43,3296.52002
+Winston Lee,3,serve_plus_one,Forehand,Topspin,60.075428,146,0,0,deep,ad,far,2.526625,23.692791,out,deuce,near,0.649902,-0.931497,1.244141,down the line,In,false,21:50:44,3298.040039
+Alex Chang,4,return_plus_one,Backhand,Topspin,51.274551,146,0,0,deep,ad,near,-1.295599,1.34012,out,ad,far,1.981445,25.240038,1.001953,cross court,In,false,21:50:46,3299.52002
+Winston Lee,5,in_play,Forehand,Topspin,50.821556,146,0,0,deep,ad,far,1.527252,20.914373,out,ad,near,-1.875977,-3.09556,1.636719,inside out,In,false,21:50:47,3301.090088
+Alex Chang,6,in_play,Backhand,Topspin,75.491592,146,0,0,deep,deuce,near,3.341217,1.516441,deep,ad,far,1.507812,24.880663,1.324219,down the line,In,false,21:50:49,3302.639893
+Winston Lee,1,serve,Serve,Kick,39.939167,147,0,0,short,ad,near,-1.227539,11.273438,deep,deuce,near,1.043945,0.373191,2.472656,down the T,Net,false,21:51:10,3324.139893
+Winston Lee,1,serve,Serve,Flat,64.685242,148,0,0,short,deuce,far,-3.958319,18.281967,deep,deuce,near,0.956055,1.060691,2.466797,out wide,In,false,21:51:23,3337.040039
+Alex Chang,2,return,Forehand,Topspin,49.128235,148,0,0,deep,deuce,near,0.98041,4.200616,out,deuce_out,far,-5.632812,26.286913,0.920898,down the line,In,false,21:51:24,3338.320068
+Winston Lee,3,serve_plus_one,Forehand,Topspin,55.418823,148,0,0,short,deuce,far,-2.329347,18.268229,out,deuce,near,2.378906,-0.775247,1.287109,cross court,In,false,21:51:26,3339.899902
+Alex Chang,4,return_plus_one,Forehand,Flat,48.369011,148,0,0,deep,deuce,near,1.767887,4.39731,deep,deuce,far,-3.296875,24.896288,1.423828,cross court,In,false,21:51:28,3341.419922
+Winston Lee,5,in_play,Forehand,Topspin,56.528381,148,0,0,deep,deuce,far,-3.207135,20.072321,out,deuce,near,2.580078,-1.173684,1.314453,cross court,In,false,21:51:29,3342.919922
+Alex Chang,6,in_play,Forehand,Topspin,66.660896,148,0,0,deep,deuce,near,2.649289,2.222387,deep,deuce,far,-3.552734,24.490038,1.453125,cross court,In,false,21:51:30,3344.219971
+Winston Lee,7,in_play,Forehand,Topspin,65.291512,148,0,0,short,ad,far,1.390229,18.282429,out,deuce,near,3.023438,-1.095559,0.825195,down the line,In,false,21:51:32,3345.419922
+Alex Chang,8,in_play,Backhand,Slice,40.28315,148,0,0,deep,ad,near,-2.15625,1.390625,deep,ad,far,0.844727,23.646288,1.078125,cross court,In,false,21:51:33,3346.5
+Winston Lee,9,in_play,Backhand,Flat,38.32494,148,0,0,short,deuce,far,-1.946289,17,deep,ad,near,-2.507812,-0.486184,0.727539,down the line,In,false,21:51:34,3347.98999
+Alex Chang,10,in_play,Overhead,Flat,50.071991,148,0,0,short,ad,near,-2.763008,6.542565,short,deuce,far,-1.946289,18.208788,3.082031,---,In,false,21:51:35,3349.189941
+Winston Lee,11,in_play,Backhand,Topspin,41.011963,148,0,0,deep,deuce,far,-2.185535,18.297428,deep,ad,near,-2.970703,-0.243997,0.916016,down the line,In,false,21:51:37,3350.48999
+Winston Lee,1,serve,Serve,Flat,86.160004,149,0,0,short,ad,far,2.134913,18.250336,deep,ad,near,-1.25,0.943503,2.269531,down the T,In,false,21:52:01,3374.649902
+Alex Chang,2,return,Backhand,Slice,41.211636,149,0,0,deep,deuce,near,0.036269,1.593845,deep,ad,far,2.984375,23.927538,1.900391,down the line,In,false,21:52:02,3375.570068
+Winston Lee,3,serve_plus_one,Forehand,Topspin,52.512836,149,0,0,deep,ad,far,3.399551,23.654572,deep,deuce,near,0.141968,-0.087747,1.200195,down the line,In,false,21:52:04,3377.379883
+Alex Chang,4,return_plus_one,Backhand,Slice,34.064495,149,0,0,deep,deuce,near,1.5169,2.924895,out,ad,far,3.226562,25.771288,0.998535,down the line,In,false,21:52:05,3378.77002
+Winston Lee,1,serve,Serve,Kick,77.178314,150,0,0,short,deuce,far,-3.391563,16.462776,deep,deuce,near,1.137695,0.193503,2.511719,out wide,In,false,21:52:24,3398.01001
+Alex Chang,2,return,Forehand,Slice,40.788387,150,0,0,short,deuce,near,0.20196,6.909802,deep,deuce_alley,far,-4.769531,23.865038,1.387695,down the line,In,false,21:52:25,3398.909912
+Winston Lee,3,serve_plus_one,Forehand,Slice,32.901661,150,0,0,deep,ad,far,0.885562,18.30979,deep,deuce,near,1.428711,3.240378,1.035156,down the line,In,false,21:52:27,3400.409912
+Alex Chang,4,return_plus_one,Backhand,Slice,52.681072,150,0,0,short,deuce,near,3.03125,9.453125,deep,ad,far,2.742188,23.240038,0.501465,down the line,In,false,21:52:28,3401.899902
+Winston Lee,5,in_play,Volley,Flat,24.248772,150,0,0,short,deuce,far,-3.182209,17.225426,short,deuce,near,3.03125,8.927878,1.112305,cross court,In,false,21:52:29,3402.5
+Winston Lee,1,serve,Serve,Flat,106.518013,151,0,0,deep,ad,far,2.45572,21.191532,deep,ad,near,-1.307617,-0.353372,2.542969,down the T,Out,false,21:52:59,3432.780029
+Alex Chang,2,return,Backhand,Topspin,44.180447,151,0,0,deep,ad,near,-2.065567,4.519433,deep,ad,far,2.830078,24.583788,1.160156,cross court,In,false,21:53:00,3433.590088
+Winston Lee,3,serve_plus_one,Backhand,Slice,38.979801,151,0,0,short,deuce,far,-2.13854,18.257799,deep,ad,near,-2.267578,1.662253,1.068359,down the line,In,false,21:53:01,3435.090088
+Winston Lee,1,serve,Serve,Kick,70.015663,152,0,0,short,ad,far,1.364275,18.2743,deep,ad,near,-1.0625,0.060691,2.558594,down the T,In,false,21:53:13,3446.639893
+Alex Chang,2,return,Forehand,Topspin,46.388302,152,0,0,deep,ad,near,-2.005841,1.934963,out,ad,far,1.941406,25.818163,1.173828,inside out,In,false,21:53:14,3447.790039
+Winston Lee,3,serve_plus_one,Forehand,Topspin,56.288261,152,0,0,deep,ad,far,1.930074,20.34185,out,ad,near,-2.435547,-3.165872,1.580078,inside out,In,false,21:53:16,3449.689941
+Alex Chang,4,return_plus_one,Backhand,Topspin,73.601013,152,0,0,deep,deuce,near,2.799416,1.990169,deep,ad,far,2.509766,23.208788,1.283203,down the line,In,false,21:53:17,3451.02002
+Winston Lee,5,in_play,Forehand,Slice,34.516659,152,0,0,short,center_line,far,0.024506,16.9375,out,deuce,near,3.029297,-2.540872,0.96875,down the line,In,false,21:53:18,3451.969971
+Alex Chang,6,in_play,Overhead,Flat,93.230537,152,0,0,deep,deuce,near,2.405633,3.286459,short,center_line,far,0.024506,18.146288,2.777344,---,In,false,21:53:20,3453.669922
+Alex Chang,1,serve,Serve,Kick,126.982979,153,0,0,short,ad,near,-1.434351,9.75041,short,deuce,far,-0.496582,23.661106,2.623047,down the T,Out,false,21:53:35,3468.409912
+Winston Lee,1,serve,Serve,Kick,88.154472,154,0,0,short,ad,far,3.827743,17.223284,deep,ad,near,-0.717773,-0.236184,2.46875,out wide,In,false,21:53:49,3482.77002
+Alex Chang,2,return,Backhand,Slice,37.046268,154,0,0,short,ad,far,1.304688,18.215555,out,ad_alley,far,4.742188,25.599413,0.996094,down the line,Net,false,21:53:50,3483.620117
+Alex Chang,1,serve,Serve,Kick,49.308384,155,0,0,short,ad,near,-1.389648,11.664062,deep,deuce,near,0.71582,0.349753,2.513672,down the T,Net,false,21:55:44,3598.159912
+Alex Chang,1,serve,Serve,Kick,71.43811,156,0,0,short,deuce,far,-1.62305,17.359627,deep,deuce,near,0.54834,0.865378,2.699219,down the T,In,false,21:56:00,3613.98999
+Winston Lee,2,return,Backhand,Topspin,47.947006,156,0,0,short,ad,near,-0.302746,6.270847,deep,deuce,far,-1.308594,24.458788,1.253906,inside in,In,false,21:56:01,3614.919922
+Alex Chang,3,serve_plus_one,Backhand,Topspin,39.990009,156,0,0,short,ad,near,-2.234375,5.963419,deep,ad,near,-0.384521,0.920066,0.927734,cross court,Net,false,21:56:02,3616.350098
+Alex Chang,1,serve,Serve,Slice,51.000248,157,0,0,short,deuce,near,0.433105,5.901061,deep,ad,near,-1.25293,1.334128,2.263672,down the T,Net,false,21:56:23,3636.919922
+Alex Chang,1,serve,Serve,Slice,83.668808,158,0,0,short,ad,far,2.721956,18.2743,deep,ad,near,-1.930664,0.529441,2.451172,out wide,In,false,21:56:39,3652.550049
+Winston Lee,2,return,Backhand,Flat,40.368614,158,0,0,deep,deuce,near,1.814278,5.08413,deep,ad_alley,far,4.316406,24.458788,1.158203,down the line,In,false,21:56:40,3653.47998
+Alex Chang,3,serve_plus_one,Forehand,Topspin,60.45285,158,0,0,short,deuce,far,-2.266083,18.246008,deep,deuce,near,0.887695,2.732565,1.736328,cross court,In,false,21:56:41,3655.02002
+Winston Lee,4,return_plus_one,Forehand,Topspin,38.8325,158,0,0,short,deuce,near,0.989258,8.585938,deep,deuce,far,-2.378906,24.802538,1.375,cross court,In,false,21:56:42,3656.169922
+Alex Chang,5,in_play,Overhead,Flat,68.020996,158,0,0,short,ad,far,1.970401,18.269518,short,deuce,near,0.989258,8.060691,2.435547,---,In,false,21:56:43,3657.199951
+Alex Chang,6,in_play,Volley,Slice,18.186579,158,0,0,deep,deuce,far,-0.250227,18.354429,short,deuce,near,0.167603,11.373191,1.966797,cross court,In,false,21:56:45,3658.679932
+Alex Chang,1,serve,Serve,Flat,93.713303,159,0,0,short,deuce,far,-3.465596,16.338314,deep,deuce,near,1.036133,0.542167,2.417969,out wide,In,false,21:57:20,3693.550049
+Winston Lee,2,return,Forehand,Flat,27.857435,159,0,0,short,deuce,near,0.654297,9.40625,deep,deuce,far,-3.892578,23.771288,1.951172,cross court,In,false,21:57:21,3694.379883
+Alex Chang,3,serve_plus_one,Overhead,Flat,111.513283,159,0,0,short,center_line,far,-0.016044,16.78899,short,deuce,near,0.654297,8.881003,2.210938,---,In,false,21:57:22,3696.25
+Alex Chang,1,serve,Serve,Flat,89.248619,160,0,0,short,ad_alley,far,4.5442,18.284227,deep,ad,near,-1.726562,1.115378,2.476562,out wide,Out,false,21:57:49,3722.409912
+Alex Chang,1,serve,Serve,Slice,78.713913,161,0,0,short,ad,far,3.095031,17.072931,deep,ad,near,-1.592773,0.490378,2.498047,out wide,In,false,21:57:58,3731.939941
+Winston Lee,2,return,Backhand,Topspin,54.958076,161,0,0,deep,ad,near,-1.126357,4.658298,deep,ad_alley,far,4.753906,24.333788,0.974609,down the line,In,false,21:57:59,3732.889893
+Alex Chang,3,serve_plus_one,Backhand,Topspin,38.573963,161,0,0,short,ad,near,-2.279297,5.684486,deep,ad,near,-2.279297,0.466941,1.15625,cross court,Net,false,21:58:00,3734.169922
+Alex Chang,1,serve,Serve,Kick,120.054153,163,0,0,deep,deuce,far,-0.19271,19.884212,deep,deuce,near,0.882324,0.568503,2.578125,down the T,Out,false,21:58:33,3766.870117
+Winston Lee,2,return,Backhand,Topspin,22.551941,163,0,0,short,deuce,far,-1.782227,14.1875,deep,deuce,far,-0.44873,23.302538,1.974609,inside out,Net,false,21:58:34,3767.590088
+Alex Chang,1,serve,Serve,Slice,91.751953,164,0,0,short,ad,far,3.470729,16.951435,deep,ad,near,-1.043945,0.109864,2.423828,out wide,In,false,21:59:03,3796.399902
+Winston Lee,2,return,Backhand,Topspin,30.045979,164,0,0,short,ad,near,-0.259084,7.898463,deep,ad_alley,far,5.027344,24.177538,1.628906,down the line,In,false,21:59:03,3797.280029
+Alex Chang,3,serve_plus_one,Backhand,Flat,40.392056,164,0,0,short,deuce,near,1.054688,10.835938,deep,ad,near,-1.175781,4.506003,1.587891,down the line,Net,false,21:59:05,3799.22998
+Winston Lee,1,serve,Serve,Slice,41.024464,166,0,0,short,ad,far,2.361328,17.087894,deep,deuce,far,-0.805176,23.896288,2.404297,out wide,Net,false,21:59:37,3830.600098
+Winston Lee,1,serve,Serve,Kick,66.51049,167,0,0,short,deuce,near,3.6023,5.490614,deep,deuce,far,-0.512695,22.708788,1.871094,out wide,In,false,21:59:51,3845.300049
+Alex Chang,2,return,Forehand,Topspin,43.008812,167,0,0,deep,deuce,far,-1.047604,21.1875,out,deuce_alley,near,5.253906,-1.017434,0.964355,down the line,In,false,21:59:53,3846.47998
+Winston Lee,1,serve,Serve,Kick,73.636162,168,0,0,deep,ad,near,-1.783669,5.461005,deep,ad,far,0.574219,23.802538,2.626953,down the T,Out,false,22:00:10,3863.72998
+Alex Chang,2,return,Forehand,Flat,53.672672,168,0,0,deep,ad,far,1.463197,21.904629,deep,ad,near,-2.236328,-0.118997,1.256836,inside out,In,false,22:00:11,3864.659912
+Winston Lee,1,serve,Serve,Slice,69.929665,169,0,0,short,ad,near,-1.109634,5.895724,deep,ad,far,0.776367,24.396288,2.648438,down the T,In,false,22:00:29,3883.219971
+Alex Chang,2,return,Forehand,Topspin,53.681026,169,0,0,deep,deuce,far,-0.493074,23.698515,out,ad,near,-1.599609,-2.25181,1.186523,inside in,In,false,22:00:31,3884.389893
+Winston Lee,3,serve_plus_one,Forehand,Flat,43.027828,169,0,0,short,ad,near,-3.006437,6.491416,deep,ad,far,0.201782,24.255663,1.138672,inside out,In,false,22:00:32,3885.959961
+Alex Chang,4,return_plus_one,Backhand,Topspin,69.224548,169,0,0,deep,deuce_alley,far,-4.79715,22.343147,deep,ad,near,-2.802734,2.256003,1.49707,down the line,Out,false,22:00:33,3887.320068
+Winston Lee,1,serve,Serve,Slice,97.046745,171,0,0,short,deuce,near,0.680234,5.827969,deep,deuce,far,-1.224609,24.365038,2.464844,down the T,In,false,22:01:03,3917.149902
+Alex Chang,2,return,Backhand,Slice,44.265079,171,0,0,deep,ad,far,0.701684,23.552088,out,deuce,near,1.404297,-0.822122,1.074219,inside in,In,false,22:01:04,3917.889893
+Winston Lee,3,serve_plus_one,Forehand,Slice,39.979176,171,0,0,short,ad,far,1.798828,17.932035,deep,ad,far,1.359375,24.052538,0.919434,inside out,Net,false,22:01:06,3919.669922
+Winston Lee,1,serve,Serve,Flat,82.648987,172,0,0,deep,ad,near,-1.186119,4.658788,deep,ad,far,0.963867,24.083788,2.601562,down the T,Out,false,22:01:30,3944.320068
+Alex Chang,2,return,Forehand,Topspin,57.712708,172,0,0,short,deuce,far,-3.773362,18.276493,deep,ad,near,-1.741211,0.006003,1.121094,inside in,In,false,22:01:31,3945.080078
+Winston Lee,1,serve,Serve,Slice,67.8787,173,0,0,short,ad,near,-0.888184,6.572554,deep,ad,far,0.908691,24.521288,2.785156,down the T,In,false,22:01:38,3951.620117
+Alex Chang,2,return,Forehand,Topspin,53.770729,173,0,0,deep,deuce,far,-1.075457,21.851732,out,ad,near,-1.476562,-1.275247,1.414062,inside in,In,false,22:01:39,3952.850098
+Winston Lee,3,serve_plus_one,Forehand,Topspin,36.999687,173,0,0,deep,ad,near,-4.099373,5.373864,deep,deuce,far,-0.609375,24.427538,1.248047,down the line,In,false,22:01:41,3954.370117
+Alex Chang,4,return_plus_one,Backhand,Topspin,53.052769,173,0,0,short,ad,far,1.909916,18.277023,out,ad,near,-2.232422,-1.939309,1.59375,cross court,In,false,22:01:42,3956.080078
+Winston Lee,5,in_play,Backhand,Flat,49.072037,173,0,0,deep,ad,near,-2.92573,2.483601,deep,ad,far,2.820312,24.552538,1.520508,cross court,In,false,22:01:44,3957.620117
+Alex Chang,6,in_play,Backhand,Topspin,84.359276,173,0,0,deep,ad,far,2.434939,23.732407,out,ad,near,-3.664062,-1.470559,1.322266,cross court,In,false,22:01:45,3959.179932
+Winston Lee,7,in_play,Backhand,Flat,47.708755,173,0,0,deep,ad,near,-3.166698,4.330939,deep,ad,far,3.259766,24.271288,2.330078,cross court,In,false,22:01:47,3960.449951
+Alex Chang,8,in_play,Backhand,Topspin,79.796928,173,0,0,deep,ad,far,2.457031,20.375,out,ad,near,-4.066406,-0.829934,1.270508,cross court,In,false,22:01:48,3962.02002
+Winston Lee,9,in_play,Backhand,Flat,53.352039,173,0,0,deep,deuce,near,0.511572,3.426208,out,ad,far,3.318359,25.021288,0.827148,down the line,In,false,22:01:49,3963.120117
+Alex Chang,10,in_play,Forehand,Topspin,61.191559,173,0,0,deep,deuce,far,-4.086083,20.856915,out,ad,near,-0.238159,-0.939309,1.00293,inside in,In,false,22:01:51,3964.379883
+Winston Lee,11,in_play,Forehand,Slice,37.805836,173,0,0,deep,deuce,near,0.961471,4.156122,out,deuce,far,-4.085938,26.646288,1.251953,cross court,In,false,22:01:52,3965.719971
+Alex Chang,12,in_play,Forehand,Topspin,56.008743,173,0,0,deep,ad,far,1.256614,22.687405,deep,deuce,near,1.716797,0.896628,1.365234,down the line,In,false,22:01:54,3967.850098
+Winston Lee,13,in_play,Backhand,Topspin,47.860168,173,0,0,short,deuce,near,2.208984,8.765625,out,ad,far,0.978027,25.240038,0.895508,down the line,In,false,22:01:55,3969.179932
+Alex Chang,14,in_play,Volley,Flat,21.650688,173,0,0,deep,ad,far,3.946645,22.374556,short,deuce,near,2.208984,8.240378,1.484375,down the line,In,false,22:01:56,3969.97998
+Winston Lee,15,in_play,Backhand,Topspin,35.313549,173,0,0,short,deuce,near,2.148438,7.527344,deep,ad,far,3.25,24.958788,0.664551,down the line,In,false,22:01:57,3971.26001
+Alex Chang,16,in_play,Overhead,Flat,25.114799,173,0,0,deep,ad,far,1.905752,19.615345,short,deuce,near,2.148438,7.002097,1.615234,down the line,In,false,22:01:59,3972.51001
+Winston Lee,17,in_play,Backhand,Flat,31.350231,173,0,0,short,deuce,near,2.080078,8.484375,deep,ad,far,1.132812,22.536913,1.173828,down the line,In,false,22:02:00,3973.409912
+Alex Chang,18,in_play,Volley,Flat,22.516716,173,0,0,deep,ad,far,3.06749,19.056086,short,deuce,near,2.080078,7.959128,2.027344,down the line,In,false,22:02:01,3974.560059
+Winston Lee,19,in_play,Backhand,Topspin,39.469643,173,0,0,short,ad,near,-2.21875,7.226562,deep,ad,far,1.951172,22.677538,1.757812,cross court,In,false,22:02:02,3975.659912
+Alex Chang,20,in_play,Volley,Slice,21.650688,173,0,0,deep,deuce,far,-3.150187,19.440084,short,ad,near,-2.21875,6.701315,1.576172,down the line,In,false,22:02:03,3976.610107
+Winston Lee,1,serve,Serve,Kick,51.713139,175,0,0,short,ad,far,0.910156,12.054688,deep,deuce,far,-0.952148,24.302538,2.435547,down the T,Net,false,22:02:34,4008.209961
+Winston Lee,1,serve,Serve,Kick,69.394447,176,0,0,short,deuce,near,3.480616,6.922665,deep,deuce,far,-0.811523,23.818163,2.382812,out wide,In,false,22:02:47,4020.679932
+Alex Chang,2,return,Forehand,Topspin,56.105564,176,0,0,deep,ad,far,2.28125,18.40625,deep,deuce_alley,near,4.996094,-0.408059,1.094727,down the line,In,false,22:02:48,4021.860107
+Winston Lee,3,serve_plus_one,Volley,Slice,20.784662,176,0,0,short,ad,near,-2.910582,9.536451,deep,ad,far,2.28125,19.615038,0.358887,cross court,In,false,22:02:49,4022.639893
+Winston Lee,1,serve,Serve,Flat,32.60778,178,0,0,short,ad,near,-2.906996,7.573886,deep,ad,far,1.370117,23.500372,2.048828,out wide,In,false,22:03:18,4052.139893
+Alex Chang,2,return,Backhand,Slice,44.785721,178,0,0,deep,ad,far,2.533203,18.40625,deep,ad,near,-3.269531,0.357566,1.357422,cross court,In,false,22:03:20,4053.709961
+Winston Lee,3,serve_plus_one,Volley,Slice,22.516716,178,0,0,short,ad,far,1.716797,15.650558,deep,ad,far,2.533203,19.615038,0.630859,cross court,Net,false,22:03:21,4054.699951
+Alex Chang,1,serve,Serve,Kick,90.045227,180,0,0,short,deuce,near,0.633752,8.014531,deep,deuce,far,-0.286377,23.911913,2.423828,down the T,In,false,22:05:26,4179.819824
+Winston Lee,2,return,Backhand,Flat,40.136395,180,0,0,deep,deuce,far,-3.308942,21.217974,out,deuce,near,0.455811,-1.353372,1.527344,inside out,In,false,22:05:27,4180.720215
+Alex Chang,3,serve_plus_one,Forehand,Flat,63.259132,180,0,0,short,deuce,near,2.322802,5.735043,deep,deuce,far,-2.597656,22.802538,1.506836,cross court,In,false,22:05:29,4182.490234
+Winston Lee,4,return_plus_one,Forehand,Slice,41.95507,180,0,0,deep,deuce,far,-0.382236,19.327669,deep,deuce,near,3.724609,0.349753,1.363281,cross court,In,false,22:05:30,4183.660156
+Alex Chang,5,in_play,Backhand,Topspin,59.739315,180,0,0,deep,ad,near,-3.19383,0.040999,deep,deuce,far,-0.79541,23.552538,0.932617,inside in,In,false,22:05:31,4185.160156
+Winston Lee,6,in_play,Backhand,Flat,47.800831,180,0,0,short,deuce,far,-0.405518,17.21875,out,ad,near,-3.728516,-1.064309,0.995117,down the line,In,false,22:05:32,4186.319824
+Alex Chang,7,in_play,Volley,Flat,24.248772,180,0,0,deep,deuce,near,2.492587,5.030013,short,deuce,far,-0.405518,18.427538,0.894531,cross court,In,false,22:05:33,4187.240234
+Alex Chang,1,serve,Serve,Slice,46.266891,182,0,0,short,deuce,far,-1.606445,12.296875,deep,ad,far,1.270508,24.833788,2.630859,out wide,Net,false,22:06:00,4213.790039
+Alex Chang,1,serve,Serve,Slice,66.801857,183,0,0,short,ad,near,-2.768049,6.736531,deep,ad,far,0.986328,23.075907,2.546875,out wide,In,false,22:06:17,4231.120117
+Winston Lee,2,return,Backhand,Topspin,61.746422,183,0,0,deep,ad,far,1.067383,18.453125,out,ad_alley,near,-4.425781,-1.861184,1.258789,down the line,In,false,22:06:18,4232.330078
+Alex Chang,3,serve_plus_one,Volley,Flat,25.114799,183,0,0,deep,deuce,near,1.354277,1.670178,deep,ad,far,1.067383,19.661913,0.157227,down the line,In,false,22:06:19,4233.120117
+Winston Lee,4,return_plus_one,Forehand,Topspin,33.612606,183,0,0,deep,deuce,far,-2.227938,21.518131,deep,deuce,near,1.44043,-0.306497,0.774414,cross court,In,false,22:06:21,4234.75
+Alex Chang,5,in_play,Forehand,Flat,27.216255,183,0,0,short,ad,near,-3.71308,5.489735,deep,deuce,far,-2.347656,21.990038,3.773438,down the line,In,false,22:06:24,4237.779785
+Winston Lee,6,in_play,Overhead,Topspin,87.076859,183,0,0,deep,ad,far,2.693236,22.122969,deep,ad,near,-3.097656,3.892722,2.179688,---,In,false,22:06:27,4241.279785
+Alex Chang,7,in_play,Backhand,Flat,40.666843,183,0,0,short,deuce,near,2.613281,5.980469,deep,ad,far,3.724609,24.740038,1.033203,down the line,In,false,22:06:28,4242.049805
+Winston Lee,8,in_play,Volley,Slice,25.114799,183,0,0,deep,deuce,far,-1.705803,19.74951,short,deuce,near,2.613281,5.455222,1.193359,cross court,In,false,22:06:29,4243.149902
+Alex Chang,9,in_play,Forehand,Slice,62.552315,183,0,0,short,ad,near,-1.325278,5.488875,deep,deuce,far,-2.769531,20.177538,2.349609,down the line,In,false,22:06:31,4244.879883
+Winston Lee,10,in_play,Backhand,Flat,34.011307,183,0,0,short,deuce,far,-1.386719,16.8125,deep,ad,near,-1.699219,0.045066,0.938477,down the line,In,false,22:06:32,4245.819824
+Alex Chang,11,in_play,Overhead,Topspin,78.983536,183,0,0,deep,ad,near,-1.499234,4.196318,short,deuce,far,-1.386719,18.021288,3.179688,---,In,false,22:06:33,4247.220215
+Alex Chang,1,serve,Serve,Flat,52.770493,184,0,0,short,ad,far,2.748047,12.070312,deep,deuce,far,-0.497559,24.271288,2.578125,out wide,Net,false,22:07:09,4283.180176
+Alex Chang,1,serve,Serve,Slice,91.637108,185,0,0,short,deuce,near,2.085474,7.322444,deep,deuce,far,-0.442871,23.333788,2.439453,down the T,In,false,22:07:18,4291.939941
+Winston Lee,2,return,Forehand,Slice,32.376514,185,0,0,short,deuce,near,1.086914,7.374156,deep,deuce,near,3.111328,2.31069,1.191406,cross court,Net,false,22:07:19,4292.709961
+Alex Chang,1,serve,Serve,Flat,105.616699,186,0,0,short,deuce,near,0.075885,6.755362,deep,ad,far,0.59375,23.912029,2.119141,down the T,Out,false,22:07:47,4320.910156
+Alex Chang,1,serve,Serve,Flat,34.03738,187,0,0,short,deuce,far,-2.033203,12.4375,deep,ad,far,0.936035,23.494743,2.349609,out wide,Net,false,22:07:56,4329.410156
+Alex Chang,1,serve,Serve,Flat,111.914978,189,0,0,short,deuce,near,3.668819,7.824115,deep,deuce,far,-0.536621,23.755663,2.566406,out wide,In,false,22:08:21,4354.939941
+Winston Lee,2,return,Forehand,Topspin,25.907381,189,0,0,short,ad,far,1.577148,16.265625,short,deuce,near,3.748047,5.365378,1.804688,down the line,In,false,22:08:22,4356.02002
+Winston Lee,0,none,Feed,Flat,24.248772,195,0,0,short,ad,far,1.483398,15.625,deep,ad,near,-1.799805,2.826315,1.53125,---,In,false,22:10:07,4460.709961
+Alex Chang,1,none,Volley,Flat,24.248772,195,0,0,deep,deuce,near,2.261573,0.319268,short,ad,far,1.483398,16.833788,1.921875,down the line,In,false,22:10:08,4461.529785
+Winston Lee,0,none,Volley,Flat,22.516716,196,0,0,out,deuce,near,3.181641,-0.533124,deep,deuce,near,3.181641,0.216941,0.116699,cross court,Net,false,22:10:13,4466.810059
+Winston Lee,0,none,Feed,Flat,18.186579,197,0,0,deep,ad,far,1.669922,18.59375,deep,ad,near,-1.647461,1.943503,1.15625,---,In,false,22:10:17,4470.410156
+Alex Chang,1,none,Volley,Flat,19.052607,197,0,0,deep,deuce,near,1.54789,5.480367,deep,ad,far,1.669922,19.802538,0.477783,down the line,In,false,22:10:17,4471.319824
+Winston Lee,0,none,Feed,Flat,23.382744,198,0,0,short,ad,far,2.808594,17.109375,deep,ad,near,-1.935547,2.287253,1.09375,---,In,false,22:10:26,4480.310059
+Alex Chang,1,none,Volley,Flat,24.248772,198,0,0,deep,deuce,near,2.712523,2.265871,short,ad,far,2.808594,18.318163,0.544434,down the line,In,false,22:10:28,4481.410156
+Winston Lee,0,none,Feed,Flat,19.052607,199,0,0,short,ad,far,1.498047,15.65625,deep,ad,near,-1.839844,1.248191,1.041016,---,In,false,22:10:39,4492.459961
+Alex Chang,1,none,Volley,Flat,19.918634,199,0,0,deep,deuce,near,3.156545,1.523383,short,ad,far,1.498047,16.865038,1.935547,down the line,In,false,22:10:40,4493.700195
+Winston Lee,0,none,Forehand,Slice,18.033415,200,0,0,deep,ad,near,-2.324219,3.675335,short,deuce,near,1.508789,7.787253,2.072266,down the line,Net,false,22:10:50,4503.700195
